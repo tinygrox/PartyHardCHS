@@ -1,0 +1,1057 @@
+﻿<?xml version="1.0"?>
+<Root>
+    <AdmirerBehavior>
+        <greetings>
+            <Key1 value="I admire you!"><![CDATA[我崇拜你!]]></Key1>
+            <Key2 value="I like the way you move!"><![CDATA[我喜欢你的舞步！]]></Key2>
+            <Key3 value="I'm your true friend!"><![CDATA[我是你真正的朋友！]]></Key3>
+            <Key4 value="I assure you.."><![CDATA[我向你保证…]]></Key4>
+            <Key5 value="I'm not looking for anything in return"><![CDATA[我不寻求任何回报]]></Key5>
+            <Key6 value="I hope you can accept my feelings"><![CDATA[愿你能接受我的感觉]]></Key6>
+            <Key7 value="You are amazing!"><![CDATA[你太棒了!]]></Key7>
+            <Key8 value="You are my source of inspiration!"><![CDATA[你是我灵感的源泉！]]></Key8>
+            <Key9 value="Keep on rocking!"><![CDATA[继续摇滚！]]></Key9>
+            <Key10 value="Don't throw me like this!"><![CDATA[不要甩掉我！]]></Key10>
+        </greetings>
+
+        <leaving>
+            <Key1 value="Maybe I was naive?"><![CDATA[也许我太天真了？]]></Key1>
+            <Key2 value="I got lost in his eyes"><![CDATA[他的眼神让我迷失]]></Key2>
+            <Key3 value="I never really had a chance"><![CDATA[一次机会都不给我]]></Key3>
+        </leaving>
+    </AdmirerBehavior>
+
+    <EternalBehavior>
+        <leaving>
+            <Key1 value="Enough!"><![CDATA[够了！]]></Key1>
+            <Key2 value="I'm sick of you!"><![CDATA[我很讨厌你！]]></Key2>
+            <Key3 value="I'm leaving!"><![CDATA[我要走了！]]></Key3>
+            <Key4 value="I'm so tired!"><![CDATA[我真的累了！]]></Key4>
+            <Key5 value="I got you!"><![CDATA[找到你了！]]></Key5>
+            <Key6 value="You are fast!"><![CDATA[你真快！]]></Key6>
+            <Key7 value="Why..."><![CDATA[为什么...]]></Key7>
+            <Key8 value="Oh, no..."><![CDATA[哦，不...]]></Key8>
+            <Key9 value="I miss you!"><![CDATA[我想你！]]></Key9>
+            <Key10 value="Wait for me!"><![CDATA[等等我！]]></Key10>
+        </leaving>
+
+        <Biker>
+            <Key1 value="What did you say about my momma?"><![CDATA[你说我母亲什么？]]></Key1>
+        </Biker>
+    </EternalBehavior>
+
+    <BearKiller>
+        <bear>
+            <Key1 value="Gr-gr-gr!"><![CDATA[吼-吼-吼！]]></Key1>
+        </bear>
+
+        <other>
+            <Key1 value="DONE"><![CDATA[完了]]></Key1>
+            <Key2 value="Burn it!"><![CDATA[嗨起来！]]></Key2>
+            <Key3 value="OMG!"><![CDATA[我的天哪！]]></Key3>
+            <Key4 value="LoL)"><![CDATA[哈哈]]></Key4>
+        </other>
+
+        <dance>
+            <Key1 value="Yo!!"><![CDATA[哟！！]]></Key1>
+        </dance>
+    </BearKiller>
+
+    <Hunter>
+        <hunt>
+            <Key1 value="Alle-e-e-ez Oop!"><![CDATA[空中飞人！]]></Key1>
+            <Key2 value="Dance creature!"><![CDATA[你跳你妈呢！]]></Key2>
+            <Key3 value="Stupid animal!!"><![CDATA[傻逼畜生！！]]></Key3>
+            <Key4 value="Are you russian one?"><![CDATA[你是俄罗斯人？]]></Key4>
+            <Key5 value="I'll eat your meat.."><![CDATA[我要把你脑袋敲碎！]]></Key5>
+            <Key6 value="unreadable symbols"><![CDATA[#@#@#@#$@%@]]></Key6>
+        </hunt>
+    </Hunter>
+
+    <Lets>
+        <fight>
+            <Key1 value="WTF!!"><![CDATA[搞什么呀!!]]></Key1>
+            <Key2 value="Go!"><![CDATA[冲啊！]]></Key2>
+            <Key3 value="Hell yeah!"><![CDATA[好极了！！]]></Key3>
+        </fight>
+
+        <swim>
+            <Key1 value="Let's Swim!!"><![CDATA[来游泳吧！]]></Key1>
+            <Key2 value="Go!"><![CDATA[冲啊！]]></Key2>
+            <Key3 value="Hell yeah!"><![CDATA[好极了！！]]></Key3>
+            <Key4 value="Yupi!"><![CDATA[橡皮糖！]]></Key4>
+            <Key5 value="Hundo!"><![CDATA[一百块！]]></Key5>
+            <Key6 value="Good to go!"><![CDATA[准备好了！]]></Key6>
+        </swim>
+
+        <eat>
+            <Key1 value="You're too drunk!"><![CDATA[你喝醉了！]]></Key1>
+            <Key2 value="Enjoy your meal"><![CDATA[请慢慢享用]]></Key2>
+        </eat>
+    </Lets>
+
+    <PlayerBodyguard>
+        <guard>
+            <Key1 value="I'm your bodyguard!"><![CDATA[我是你的保镖！]]></Key1>
+            <Key2 value="Job is done"><![CDATA[任务完成]]></Key2>
+            <Key3 value="It was one time job"><![CDATA[只干这么一次]]></Key3>
+        </guard>
+    </PlayerBodyguard>
+
+    <ArrestTargetBeh>
+        <cop>
+            <Key1 value="You're under arrest!"><![CDATA[你被逮捕了！]]></Key1>
+        </cop>
+    </ArrestTargetBeh>
+
+    <AgressiveWitness>
+        <witness>
+            <Key1 value="Get lost!"><![CDATA[滚开！]]></Key1>
+            <Key2 value="Next time you won't get away!"><![CDATA[下次你可跑不掉了！]]></Key2>
+            <Key3 value="Yeah, run as fast as you can!"><![CDATA[对，你能跑多快跑多快！]]></Key3>
+            <Key4 value="Coward!"><![CDATA[胆小鬼！]]></Key4>
+            <Key5 value="I will crush you!"><![CDATA[我要捏死你！]]></Key5>
+            <Key6 value="You won't get away with this!"><![CDATA[你逃不掉的！]]></Key6>
+            <Key7 value="Lets kick some ass!"><![CDATA[来让我们找点乐子吧！]]></Key7>
+            <Key8 value="Come here!"><![CDATA[来啊！]]></Key8>
+        </witness>
+    </AgressiveWitness>
+
+    <AnonymousAlcoholic>
+        <alco>
+            <Key1 value="I'm addictive"><![CDATA[我上瘾了]]></Key1>
+            <Key2 value="Hi"><![CDATA[嗨]]></Key2>
+            <Key3 value="How are you?"><![CDATA[你好吗？]]></Key3>
+            <Key4 value="What's new?"><![CDATA[怎么样？]]></Key4>
+        </alco>
+    </AnonymousAlcoholic>
+
+    <ArrestTarget>
+        <arrest>
+            <Key1 value="Screw it"><![CDATA[不玩了]]></Key1>
+            <Key2 value="Next time!"><![CDATA[下次！]]></Key2>
+            <Key3 value="I'm too old for this shit"><![CDATA[我太老了，这该死的]]></Key3>
+        </arrest>
+    </ArrestTarget>
+
+    <BikersAlert>
+        <biker>
+            <Key1 value="Who the fuck touched my bike?"><![CDATA[谁他妈的动了我的摩托？]]></Key1>
+            <Key2 value="Who did this?"><![CDATA[这谁干的？]]></Key2>
+            <Key3 value="My bike, no..."><![CDATA[我的摩托，不…]]></Key3>
+            <Key4 value="I'll kill the mother fucker!"><![CDATA[我要杀了那混蛋！]]></Key4>
+            <Key5 value="No one here..."><![CDATA[这里没人…]]></Key5>
+            <Key6 value="Damn it..."><![CDATA[可恶…]]></Key6>
+            <Key7 value="It's you!!!"><![CDATA[就是你！！！]]></Key7>
+            <Key8 value="I'll get you!!!"><![CDATA[我会抓住你！！！]]></Key8>
+        </biker>
+    </BikersAlert>
+
+    <CallCops>
+        <call>
+            <Key1 value="Screw this..."><![CDATA[管他呢…]]></Key1>
+            <Key2 value="That`s it, I`m calling cops!"><![CDATA[够了，我要打电话报警！]]></Key2>
+            <Key3 value="Police will take care of this!"><![CDATA[警察会处理这事的！]]></Key3>
+            <Key4 value="Cops, we need cops!"><![CDATA[警察，我们需要警察！]]></Key4>
+            <Key5 value="Where is the phone in this place?"><![CDATA[这里的电话在哪里？]]></Key5>
+        </call>
+    </CallCops>
+
+    <DanceWatcher>
+        <watcher>
+            <Key1 value="Get lost!"><![CDATA[滚开！]]></Key1>
+            <Key2 value="Next time you won't get away!"><![CDATA[下次你可跑不掉了！]]></Key2>
+            <Key3 value="Yeah, run as fast as you can!"><![CDATA[对，你能跑多块就跑多开！]]></Key3>
+            <Key4 value="Coward!"><![CDATA[胆小鬼！]]></Key4>
+            <Key5 value="What?"><![CDATA[跳的什么玩意儿q？]]></Key5>
+            <Key6 value="Dude..."><![CDATA[老兄…]]></Key6>
+            <Key7 value="Huh?"><![CDATA[哈？]]></Key7>
+            <Key8 value="Get lost with this shit!"><![CDATA[跳的真难看，滚开！]]></Key8>
+            <Key9 value="Fuck off!"><![CDATA[滚一边去！]]></Key9>
+            <Key10 value="Just fuck off!"><![CDATA[赶紧滚一边去！]]></Key10>
+            <Key11 value="Yeah, nice move!"><![CDATA[耶，跳的真棒！]]></Key11>
+            <Key12 value="Lets party!"><![CDATA[让我们嗨起来！]]></Key12>
+            <Key13 value="Dance time!"><![CDATA[跳起来！]]></Key13>
+            <Key14 value="Nah..."><![CDATA[不了…]]></Key14>
+            <Key15 value="I don't like you!"><![CDATA[我不喜欢你！]]></Key15>
+            <Key16 value="Next time...looser"><![CDATA[你真失败…还是下次吧]]></Key16>
+            <Key17 value="Hey yourself"><![CDATA[好个头啊]]></Key17>
+        </watcher>
+    </DanceWatcher>
+
+    <Dealer>
+        <drugs>
+            <Key1 value="Hey"><![CDATA[嘿]]></Key1>
+            <Key2 value="Wazzup"><![CDATA[最近怎么样]]></Key2>
+            <Key3 value="Got stuff?"><![CDATA[有货没？]]></Key3>
+            <Key4 value="As usual"><![CDATA[和平常一样]]></Key4>
+            <Key5 value="I take all"><![CDATA[我全要了]]></Key5>
+            <Key6 value="It's narcotic department"><![CDATA[是缉毒署的]]></Key6>
+            <Key7 value="Run"><![CDATA[跑]]></Key7>
+        </drugs>
+
+        <swat>
+            <Key1 value="Go-Go-Go!"><![CDATA[冲-冲-冲！]]></Key1>
+            <Key2 value="Roger that.."><![CDATA[收到…]]></Key2>
+            <Key3 value="I'm in position"><![CDATA[我已就位]]></Key3>
+            <Key4 value="Need Backup!"><![CDATA[需要支援！]]></Key4>
+            <Key5 value="Enemy Down"><![CDATA[目标已消灭]]></Key5>
+        </swat>
+    </Dealer>
+
+    <SuspiciousPanicBeh>
+        <run>
+            <Key1 value="Get away from me!"><![CDATA[离我远点！]]></Key1>
+            <Key2 value="Leave me alone!"><![CDATA[别管我！]]></Key2>
+            <Key3 value="No! No! No!"><![CDATA[不！不！不！]]></Key3>
+        </run>
+
+        <attack>
+            <Key1 value="Die!"><![CDATA[去死！]]></Key1>
+            <Key2 value="Take that!"><![CDATA[尝尝这个！]]></Key2>
+            <Key3 value="HAhahAhaHahahA!"><![CDATA[哈哈哈哈哈哈哈！]]></Key3>
+            <Key4 value="Gahahaha!"><![CDATA[嘎哈哈哈！]]></Key4>
+            <Key5 value="Mwwwuuuuhahahahaha!"><![CDATA[木哈哈哈哈哈！]]></Key5>
+        </attack>
+    </SuspiciousPanicBeh>
+
+    <FireMan>
+        <fire>
+            <Key1 value="We're done"><![CDATA[搞定了]]></Key1>
+        </fire>
+    </FireMan>
+
+    <LimousineNude>
+        <nude>
+            <Key1 value="Come here, all of you!"><![CDATA[过来，你们全部都过来！]]></Key1>
+            <Key2 value="I love you people!"><![CDATA[我爱你们！]]></Key2>
+        </nude>
+    </LimousineNude>
+
+    <PestControl>
+        <pest>
+            <Key1 value="What do we have here?"><![CDATA[这里什么情况？]]></Key1>
+            <Key2 value="Another fucking mess?"><![CDATA[他妈的又是个烂摊子？]]></Key2>
+            <Key3 value="What's next?"><![CDATA[然后呢？]]></Key3>
+            <Key4 value="Another beerpong party?"><![CDATA[又一个啤酒乒乓球派对？]]></Key4>
+            <Key5 value="Cinema maybe?"><![CDATA[也许是电影？]]></Key5>
+            <Key6 value="We're done here!"><![CDATA[搞定收工！]]></Key6>
+        </pest>
+    </PestControl>
+
+    <PoisonDamage>
+        <poison>
+            <Key1 value="I feel sick"><![CDATA[我感觉不舒服]]></Key1>
+            <Key2 value="I'm going to throw up"><![CDATA[我要吐了]]></Key2>
+            <Key3 value="It taste like a shit"><![CDATA[味道和屎一样]]></Key3>
+            <Key4 value="Is it seafood?"><![CDATA[这是海鲜？]]></Key4>
+        </poison>
+    </PoisonDamage>
+
+    <RacerStart>
+        <racer>
+            <Key1 value="Where're u moto?"><![CDATA[你的车在哪呢？]]></Key1>
+        </racer>
+    </RacerStart>
+
+    <BigEye>
+        <BigEyePhrase>
+            <Key1 value="very tasty"><![CDATA[味道好极了]]></Key1>
+            <Key2 value="I'm hungry "><![CDATA[我饿了]]></Key2>
+            <Key3 value="I want to eat"><![CDATA[我想吃人]]></Key3>
+            <Key4 value="I kill all if you do not give victim"><![CDATA[如果你不喂我，我就把他们全杀了]]></Key4>
+        </BigEyePhrase>
+    </BigEye>
+
+    <RunAwayFrom>
+        <crime>
+            <Key1 value="Here is another body!!!"><![CDATA[这还有具尸体！！！]]></Key1>
+            <Key2 value="I can see another body here!"><![CDATA[我能看到这里还有一具尸体！]]></Key2>
+            <Key3 value="OMG!"><![CDATA[我的天哪！]]></Key3>
+            <Key4 value="Can someone get this thing out of here?"><![CDATA[有人能把这个从这里弄走吗？]]></Key4>
+            <Key5 value="What the hell?!"><![CDATA[什么鬼情况？！]]></Key5>
+            <Key6 value="Someone should call police!"><![CDATA[有人应该打电话报警！]]></Key6>
+            <Key7 value="How long it will lay out there?"><![CDATA[那尸体还要在那躺多久？]]></Key7>
+            <Key8 value="This body ruins me a party mood!"><![CDATA[这些死尸真是毁了我派对的大好心情！]]></Key8>
+            <Key9 value="I'm outta here!"><![CDATA[我要离开这儿！]]></Key9>
+            <Key10 value="Officer, you need to see this!"><![CDATA[警官，你需要看看这个！]]></Key10>
+        </crime>
+    </RunAwayFrom>
+
+    <ReportForCops>
+        <report>
+            <Key1 value="Officier, this man is a killer!"><![CDATA[警官，这个人就是凶手！]]></Key1>
+            <Key2 value="Screw this..."><![CDATA[管他呢…]]></Key2>
+            <Key3 value="This man is a murderer!"><![CDATA[这个人就是凶手！]]></Key3>
+            <Key4 value="Police!"><![CDATA[警官！]]></Key4>
+            <Key5 value="You're busted!"><![CDATA[你完蛋了！]]></Key5>
+            <Key6 value="Killer!"><![CDATA[杀人犯！]]></Key6>
+            <Key7 value="Help!"><![CDATA[救命！]]></Key7>
+            <Key8 value="Murderer!"><![CDATA[杀人了！]]></Key8>
+            <Key9 value="Help, murderer!"><![CDATA[救命，有杀人犯！]]></Key9>
+            <Key10 value="Murderer, help!"><![CDATA[杀人了，救命啊！]]></Key10>
+            <Key11 value="Police, help!"><![CDATA[警官，救命！]]></Key11>
+            <Key12 value="Killer, help!"><![CDATA[杀人犯，救命啊！]]></Key12>
+        </report>
+    </ReportForCops>
+
+    <SecurityGuard>
+        <security>
+            <Key1 value="Screw you..."><![CDATA[去你的…]]></Key1>
+            <Key2 value="Get lost freak!"><![CDATA[滚一边去，怪胎！]]></Key2>
+            <Key3 value="Yeah, run!"><![CDATA[耶，跑吧！]]></Key3>
+            <Key4 value="I will break you!"><![CDATA[我要揍扁你！]]></Key4>
+            <Key5 value="I will crush you!"><![CDATA[我要捏死你！]]></Key5>
+            <Key6 value="Time to break some bones!"><![CDATA[看来你皮痒！]]></Key6>
+            <Key7 value="Hey you there, out!"><![CDATA[嘿，你，出去！]]></Key7>
+            <Key8 value="I'll kick your ass!"><![CDATA[给你点颜色瞧瞧！]]></Key8>
+        </security>
+    </SecurityGuard>
+
+    <SpecialAgent>
+        <agent>
+            <Key1 value="I got you!"><![CDATA[找到你了！]]></Key1>
+            <Key2 value="What're u doing here?"><![CDATA[你在这里干啥？]]></Key2>
+            <Key3 value="Why..."><![CDATA[为什么…]]></Key3>
+            <Key4 value="I'm in position"><![CDATA[我已就位]]></Key4>
+            <Key5 value="Sector clear"><![CDATA[此区域安全]]></Key5>
+            <Key6 value="Regroup team"><![CDATA[队伍重组]]></Key6>
+        </agent>
+    </SpecialAgent>
+
+    <StandStong>
+        <strong>
+            <Key1 value="I'm outta here!"><![CDATA[我要离开这儿！]]></Key1>
+            <Key2 value="OMG!"><![CDATA[我的天哪！]]></Key2>
+            <Key3 value="What the hell?!"><![CDATA[什么鬼情况？！]]></Key3>
+        </strong>
+    </StandStong>
+
+    <StartDance>
+        <dance>
+            <Key1 value="Uhn tiss uhn tiss baby"><![CDATA[Uhn tiss uhn tiss baby(嗯次，嗯次，宝贝)]]></Key1>
+            <Key2 value="Ya!"><![CDATA[呀！]]></Key2>
+            <Key3 value="OMG!"><![CDATA[我的天哪！]]></Key3>
+            <Key4 value="LoL)"><![CDATA[哈哈]]></Key4>
+        </dance>
+    </StartDance>
+
+    <WakeWhileCarried>
+        <wake>
+            <Key1 value="Put me down!"><![CDATA[把我放下来！]]></Key1>
+            <Key2 value="Put me down, you freak!"><![CDATA[把我放下来，你这变态！]]></Key2>
+            <Key3 value="What the hell?!"><![CDATA[什么鬼情况？！]]></Key3>
+            <Key4 value="Arrest this freak!"><![CDATA[快把这变态抓起来！]]></Key4>
+            <Key5 value="I need help!"><![CDATA[救救我！]]></Key5>
+            <Key6 value="Police!"><![CDATA[警官！]]></Key6>
+        </wake>
+    </WakeWhileCarried>
+
+    <PoliceDepartment>
+        <player>
+            <Key1 value="Finally I have got you!"><![CDATA[我终于抓住你了！]]></Key1>
+            <Key2 value="Everybody be cool"><![CDATA[大家都冷静点]]></Key2>
+            <Key3 value="It's a kidnapping"><![CDATA[这是绑架]]></Key3>
+        </player>
+    </PoliceDepartment>
+
+    <PornStudio>
+        <phrases>
+            <Key1 value="HA HA! You helped me to tie up all loose ends"><![CDATA[哈哈！你帮我处理好了这烂摊子]]></Key1>
+            <Key2 value="I'm low on ammo"><![CDATA[我弹药不足了]]></Key2>
+            <Key3 value="It's a kidnapping"><![CDATA[这是绑架]]></Key3>
+        </phrases>
+    </PornStudio>
+
+    <IngameAssets>
+        <MainMenu>
+            <Continue value="Continue"><![CDATA[继续]]></Continue>
+            <NewGame value="New game"><![CDATA[新游戏]]></NewGame>
+            <LocalCoop value="Local Coop"><![CDATA[本地合作]]></LocalCoop>
+            <NetworkCoop value="Network Coop"><![CDATA[线上合作]]></NetworkCoop>
+            <Workshop value="Workshop"><![CDATA[创意工坊]]></Workshop>
+            <Options value="Options"><![CDATA[选项]]></Options>
+            <Quit value="Quit"><![CDATA[退出]]></Quit>
+            <Classic value="Classic"><![CDATA[经典]]></Classic>
+            <Highcrimes value="High crimes (DLC)"><![CDATA[重罪(DLC)]]></Highcrimes>
+        </MainMenu>
+
+        <OpenScreen>
+            <SplashScreenAutosaveFeature value="This Game Saves Data Automatically At Certain Points. Do Not Turn Off The System While The Following Icon Is Displayed On Screen"><![CDATA[该游戏将会在既定节点进行自动存档. \n 当以下图标在屏幕上显示时,切勿关闭系统.]]></SplashScreenAutosaveFeature>
+            <Copyright2015PinoklGames.AllRightsReserved value="Copyright 2015 PinoklGames. All Rights Reserved"><![CDATA[版权所有 2015 PinoklGames.保留所有权利]]></Copyright2015PinoklGames.AllRightsReserved>
+        </OpenScreen>
+
+        <Hints>
+            <Select value="Select"><![CDATA[选择]]></Select>
+            <Back value="Back"><![CDATA[返回]]></Back>
+            <Use value="Use"><![CDATA[使用]]></Use>
+            <Move value="Move"><![CDATA[移动]]></Move>
+            <Points value="Points"><![CDATA[分数：]]></Points>
+            <Kills value="Kills"><![CDATA[杀人数：]]></Kills>
+            <SelectLevel value="Select Level"><![CDATA[关卡]]></SelectLevel>
+            <Continue value="Continue"><![CDATA[继续]]></Continue>
+            <Objective value="Objective: kill them all!"><![CDATA[任务:杀光他们！]]></Objective>
+            <Objective2 value="Kill them all in 3 minutes"><![CDATA[在3分钟内把他们全杀光]]></Objective2>
+            <Objective3 value="survive for 5 minutes"><![CDATA[生存5分钟]]></Objective3>
+            <PickUpBody value="PICK UP BODY"><![CDATA[扛起]]></PickUpBody>
+            <SpeedUp value="speed up"><![CDATA[加速]]></SpeedUp>
+            <BatonStrike value="baton strike"><![CDATA[警棍攻击]]></BatonStrike>
+            <SwordStrike value="sword strike"><![CDATA[剑攻击]]></SwordStrike>
+            <PutDownPizza value="put down pizza"><![CDATA[将披萨放下]]></PutDownPizza>
+            <SetUpABomb value="Set up a bomb"><![CDATA[设置一枚炸弹]]></SetUpABomb>
+            <PoisonBooze value="poison booze"><![CDATA[在酒里下毒]]></PoisonBooze>
+            <KindleFire value="kindle fire"><![CDATA[点燃烈火]]></KindleFire>
+            <ThrowSmokeGrenade value="throw smoke granade"><![CDATA[投掷烟雾弹]]></ThrowSmokeGrenade>
+            <EnableChainsaw value="Enable chainsaw"><![CDATA[开启电锯]]></EnableChainsaw>
+            <PressAnyKey value="PRESS ANY KEY TO RESTART"><![CDATA[按任意键开始]]></PressAnyKey>
+            <PressOnScreen value="tap on screen to restart"><![CDATA[点击屏幕来重新开始]]></PressOnScreen>
+            <Skip value="Skip"><![CDATA[跳过]]></Skip>
+            <GraphicsLevel value="graphics level"><![CDATA[画面水平]]></GraphicsLevel>
+            <CleanAllProgress value="clean all progress"><![CDATA[清除所有进度]]></CleanAllProgress>
+            <Audio value="audio"><![CDATA[声音]]></Audio>
+            <TabToMove value="Tap to move"><![CDATA[点击移动]]></TabToMove>
+            <DoubleTab value="double tap to sprint"><![CDATA[快速点击两次进行冲刺]]></DoubleTab>
+            <Swipe value="swipe left/right to kill"><![CDATA[向左/向右滑动来进行击杀动作]]></Swipe>
+            <Hold value="hold to dance"><![CDATA[长按跳舞]]></Hold>
+            <TapUse value="tap use to activate"><![CDATA[点击启动]]></TapUse>
+            <UseItem value="press this to use item"><![CDATA[点击这个来使用该物品]]></UseItem>
+        </Hints>
+
+        <Options>
+            <OptionsTitle value="options"><![CDATA[选项]]></OptionsTitle>
+            <Resolution value="Resolution"><![CDATA[分辨率]]></Resolution>
+            <Fullscreen value="Fullscreen"><![CDATA[全屏]]></Fullscreen>
+            <Music value="Music"><![CDATA[音乐]]></Music>
+            <AudioOptions value="Audio Options"><![CDATA[音效]]></AudioOptions>
+            <Voiceover value="Voiceover"><![CDATA[语音]]></Voiceover>
+            <Voiceover value="youtuber mode"><![CDATA[直播模式]]></Voiceover>
+            <Controls value="Controls"><![CDATA[控制]]></Controls>
+            <Credits value="Credits"><![CDATA[制作人员]]></Credits>
+            <Achievements value="Achievements"><![CDATA[成就]]></Achievements>
+            <Language value="Language"><![CDATA[语言]]></Language>
+            <TwitchConfig value="Twitch config"><![CDATA[twitch设置]]></TwitchConfig>
+            <TwitchIntegration value="TwitchIntegration"><![CDATA[内置的TWITCH功能可使你在直播PartyHard时，允许您的粉丝激活特殊事件.\n步骤1:点击"获得oauth"按钮并复制您的oauth密钥.\n步骤2:在PartyHard中输入oauth密钥.例如:oauth:yxy7zz494vc5pq84qgg1tmmfpfhf14\n步骤3:用小写输入twitch用户名.例如:tinybuild\n步骤4:检查开启盒以开启twitch一体化.\n步骤5:点击保存并进入游戏.]]></TwitchIntegration>
+            <Yes value="Yes"><![CDATA[是]]></Yes>
+            <No value="No"><![CDATA[否]]></No>
+            <On value="on"><![CDATA[开]]></On>
+            <Off value="off"><![CDATA[关]]></Off>
+            <VideoAndAudio value="video and audio"><![CDATA[视频与音频]]></VideoAndAudio>
+            <Cutscenes value="Cutscenes"><![CDATA[过场动画]]></Cutscenes>
+            <ConfirmSelectedLanguage value="confirm selected language"><![CDATA[确认已选语言]]></ConfirmSelectedLanguage>
+            <VoteDuration value="vote duration"><![CDATA[投票时长]]></VoteDuration>
+            <PauseDuration value="pause duration"><![CDATA[暂停时长]]></PauseDuration>
+            <TwitchEnable value="enable"><![CDATA[开启]]></TwitchEnable>
+            <TwitchOauth value="oauth"><![CDATA[oauth]]></TwitchOauth>
+            <TwitchUserName value="twitch user name"><![CDATA[twitch用户名]]></TwitchUserName>
+            <TwitchWriteInChat value="write in chat"><![CDATA[聊天时打字]]></TwitchWriteInChat>
+            <TwitchInChat value="announce events in twitch chat"><![CDATA[在twitch聊天时宣布事件]]></TwitchInChat>
+            <TwitchOfflineMode value="offline mode"><![CDATA[离线模式]]></TwitchOfflineMode>
+            <TwitchGetOauth value="get oauth"><![CDATA[获得 oauth]]></TwitchGetOauth>
+            <TwitchOnTop value="twitch on top"><![CDATA[twitch总在前端显示]]></TwitchOnTop>
+            <StreamSoundMode value="stream sound mode"><![CDATA[Stream sound mode]]></StreamSoundMode>
+            <LoadPrevGame value="would you like to load your previous save from storage"><![CDATA[你想要载入你之前的存档吗？]]></LoadPrevGame>
+            <ReplayOptions value="replay options"><![CDATA[Replay options]]></ReplayOptions>
+            <RecordGame value="record game"><![CDATA[Record game]]></RecordGame>
+            <Microphone value="microphone "><![CDATA[麦克风]]></Microphone>
+        </Options>
+
+        <Controls>
+            <WalkUp value="Walk Up"><![CDATA[向上]]></WalkUp>
+            <WalkDown value="Walk Down"><![CDATA[向下]]></WalkDown>
+            <WalkLeft value="Walk Left"><![CDATA[向左]]></WalkLeft>
+            <WalkRight value="Walk Right"><![CDATA[向右]]></WalkRight>
+            <UseGameObject value="Use trap"><![CDATA[使用陷阱]]></UseGameObject>
+            <UseItem value="Use item"><![CDATA[使用物品]]></UseItem>
+            <Dance value="Dance"><![CDATA[跳舞]]></Dance>
+            <Kill value="Kill"><![CDATA[击杀]]></Kill>
+            <Listen value="Listen"><![CDATA[聆听]]></Listen>
+            <Move value="Move"><![CDATA[移动]]></Move>
+            <PickBody value="Pick Body"><![CDATA[扛起人体]]></PickBody>
+            <Sprint value="Sprint"><![CDATA[冲刺]]></Sprint>
+            <Sprint value="RESET TO DEFAULT"><![CDATA[重置为默认]]></Sprint>
+        </Controls>
+
+        <StartNewGame>
+            <YouWillLoseYourCurrentProgressAreYouSure value="You Will Lose Your Current Progress, Are You Sure?"><![CDATA[现有进程将会丢失，你确定吗？]]></YouWillLoseYourCurrentProgressAreYouSure>
+            <StartNewGame value="Start New Game"><![CDATA[开始新游戏]]></StartNewGame>
+            <Cancel value="Cancel"><![CDATA[取消]]></Cancel>
+            <Continue value="Continue"><![CDATA[继续]]></Continue>
+            <Save value="Save"><![CDATA[保存]]></Save>
+        </StartNewGame>
+
+        <CutScene1>
+            <Cancel value="Cancel"><![CDATA[取消]]></Cancel>
+            <Continue value="Continue"><![CDATA[继续]]></Continue>
+        </CutScene1>
+
+        <Tutorial>
+            <UseToActivateTrap value="USE             TO MOVE"><![CDATA[使用 移动]]></UseToActivateTrap>
+            <UseToKillWhileNooneIsWatchingYou value="USE       TO KILL WHILE NOONE IS WATCHING YOU"><![CDATA[使用 在无人发现你的时候击杀]]></UseToKillWhileNooneIsWatchingYou>
+            <UseToActivateTrap value="USE         TO ACTIVATE TRAP"><![CDATA[使用 激活陷阱]]></UseToActivateTrap>
+            <MoveToBqqTrap value="MOVE TO BBQ TRAP"><![CDATA[移动至烧烤陷阱]]></MoveToBqqTrap>
+            <ThrowPersonOnFire value="Throw Person On Fire"><![CDATA[将人扔到火里]]></ThrowPersonOnFire>
+            <KillOthers value="KILL OTHERS"><![CDATA[杀掉其他人]]></KillOthers>
+        </Tutorial>
+
+        <LevelsMenu>
+            <Skins value="Skins"><![CDATA[人物]]></Skins>
+            <SelectSkin value="select skin"><![CDATA[选择人物]]></SelectSkin>
+            <AGuyTryingToGetSomeSleep value="A Guy Trying To Get Some Sleep"><![CDATA[一个只想睡会儿觉的人]]></AGuyTryingToGetSomeSleep>
+            <PolicemanPlayer value="bears dead body without suspicion, can't use traps"><![CDATA[站在尸体旁不会引起怀疑,无法使用陷阱]]></PolicemanPlayer>
+            <NinjaPlayer value="shouldn't be seen, has stealth ability and smoke grenade"><![CDATA[不能被看到，拥有潜行技能并可使用烟雾弹]]></NinjaPlayer>
+            <GirlPlayer value="should kick and kill"><![CDATA[可将人踢晕并击杀]]></GirlPlayer>
+            <WoodmanPlayer value="may start massacre"><![CDATA[拥有屠杀技能]]></WoodmanPlayer>
+            <AdrenalinKillerPlayer value="needs to be fast or dead, the choice is yours"><![CDATA[要么动作快，要么死，选择权在你]]></AdrenalinKillerPlayer>
+            <HellsingPlayer value="tends to cease dreadful things"><![CDATA[希望能阻止不好的事情发生]]></HellsingPlayer>
+            <Score value="score"><![CDATA[得分]]></Score>
+            <Time value="time"><![CDATA[时间]]></Time>
+        </LevelsMenu>
+
+        <PauseMenu>
+            <Resume value="Resume"><![CDATA[回到游戏]]></Resume>
+            <Restart value="Restart"><![CDATA[重新开始]]></Restart>
+            <Options value="Options"><![CDATA[选项]]></Options>
+            <Quit value="Quit"><![CDATA[退出]]></Quit>
+        </PauseMenu>
+
+        <QuitGame>
+            <QuitGame value="Quit Game"><![CDATA[退出游戏]]></QuitGame>
+            <DoYouRealyWantToQuitGameCurrentProgressWillBeLost value="DO YOU REALLY WANT TO QUIT GAME? CURRENT PROGRESS WILL BE LOST"><![CDATA[你确定要退出游戏吗？\n 现有进度将会丢失]]></DoYouRealyWantToQuitGameCurrentProgressWillBeLost>
+            <Cancel value="Cancel"><![CDATA[取消]]></Cancel>
+            <MainMenu value="Main Menu"><![CDATA[主菜单]]></MainMenu>
+            <Desktop value="Desktop"><![CDATA[桌面]]></Desktop>
+        </QuitGame>
+
+        <ItemUse>
+            <Use value="Use"><![CDATA[使用]]></Use>
+            <Activate value="Activate"><![CDATA[激活]]></Activate>
+            <BreakObject value="mar Object"><![CDATA[破坏物体]]></BreakObject>
+            <StartTheEngine value="Start The Engine"><![CDATA[启动引擎]]></StartTheEngine>
+            <BreakBookshelf value="mar Bookshelf"><![CDATA[破坏书架]]></BreakBookshelf>
+            <ThrowPersonFromTheBoat value="Throw Person From The Boat"><![CDATA[将人从船上扔下去]]></ThrowPersonFromTheBoat>
+            <MakeBullAngry value="Make Bull Angry"><![CDATA[让公牛发怒]]></MakeBullAngry>
+            <StartAFire value="set A Fire"><![CDATA[把火点燃]]></StartAFire>
+            <MakeACall value="Make a call"><![CDATA[打电话]]></MakeACall>
+            <Open value="Open"><![CDATA[打开]]></Open>
+            <BreakElectricBox value="mar Electric Box"><![CDATA[破坏电路盒]]></BreakElectricBox>
+            <PushVictimIntoTheFire value="push man into the fire"><![CDATA[将受害者推进火里]]></PushVictimIntoTheFire>
+            <ThrowPersonOnFire value="Throw Person On Fire"><![CDATA[将人扔进火里]]></ThrowPersonOnFire>
+            <PushIntoTentAndSetItAlight value="throw a person in tent and kindle it"><![CDATA[推进帐篷并放火]]></PushIntoTentAndSetItAlight>
+            <BreakStove value="mar Stove"><![CDATA[破坏火炉]]></BreakStove>
+            <HideBody value="Hide Body"><![CDATA[隐藏尸体]]></HideBody>
+            <FrightenHorse value="Frighten Horse"><![CDATA[使马受到惊吓]]></FrightenHorse>
+            <GetItem value="Get Item"><![CDATA[获得物品]]></GetItem>
+            <ThrowPerson value="Throw Person"><![CDATA[将人扔出去]]></ThrowPerson>
+            <Push value="Push"><![CDATA[推]]></Push>
+            <BreakDown value="Break Down"><![CDATA[破坏]]></BreakDown>
+            <BreakDanceFloor value="undermine Dance Floor"><![CDATA[破坏舞台]]></BreakDanceFloor>
+            <ReadPaper value="Read Paper"><![CDATA[阅读报纸]]></ReadPaper>
+            <PoisonFood value="Poison Food"><![CDATA[给食物下毒]]></PoisonFood>
+            <ThrowPersonFromTheRoof value="Throw Person From The Roof"><![CDATA[从屋顶将人扔下去]]></ThrowPersonFromTheRoof>
+            <CutTheRope value="Cut The Rope"><![CDATA[剪断绳索]]></CutTheRope>
+            <BreakBungalow value="mar Bungalow"><![CDATA[破坏平房]]></BreakBungalow>
+            <ThrowPersonIntoFan value="throw person on fan"><![CDATA[将人扔进扇叶里]]></ThrowPersonIntoFan>
+            <StartCongaLine value="start konga"><![CDATA[开始跳康加舞]]></StartCongaLine>
+            <ThrowPersonOntoSaw value="throw person on saw"><![CDATA[将人扔进电锯里]]></ThrowPersonOntoSaw>
+            <SharkAttack value="Shark Attack"><![CDATA[鲨鱼攻击]]></SharkAttack>
+            <FireGun value="Fire Gun"><![CDATA[开枪]]></FireGun>
+            <EnterOrExitTheWater value="Enter Or Exit The Water"><![CDATA[进入或离开水里]]></EnterOrExitTheWater>
+            <PushWC value="Push WC"><![CDATA[推动厕所]]></PushWC>
+            <CutDownPalmTree value="cut down a palm"><![CDATA[砍断棕榈树]]></CutDownPalmTree>
+            <CutDownTree value="cut down a tree"><![CDATA[砍断树木]]></CutDownTree>
+            <MarColumn value="Mar Column"><![CDATA[破坏音响]]></MarColumn>
+            <EnterOrExit value="Enter Or Exit"><![CDATA[进入或离开]]></EnterOrExit>
+            <Squeeze value="Squeeze"><![CDATA[攀爬]]></Squeeze>
+            <MarExtinguisher value="mar extinguisher"><![CDATA[破坏灭火器]]></MarExtinguisher>
+            <INeedAVictim value="I need a victim"><![CDATA[需要一名受害者]]></INeedAVictim>
+            <IHaveToBeCloseToVictim value="I have to be close to victim"><![CDATA[你必须靠近受害者]]></IHaveToBeCloseToVictim>
+            <INeedABodyToHide value="I need a body to hide"><![CDATA[需要一具尸体进行隐藏]]></INeedABodyToHide>
+            <UndermineTower value="undermine tower"><![CDATA[破坏高塔]]></UndermineTower>
+            <ThisOneIsNotDead value="this one isn't dead"><![CDATA[这个人还没死]]></ThisOneIsNotDead>
+            <StartTorture value="start torture"><![CDATA[开始折磨]]></StartTorture>
+            <ThrowPersonFromTheBort value="throw person from the bort"><![CDATA[将人从船上扔下去]]></ThrowPersonFromTheBort>
+            <KillingPanda value="killing panda"><![CDATA[杀人熊猫]]></KillingPanda>
+            <INeedToGetRidOfTheCopsFirst value="I need to get rid of the cops first"><![CDATA[我需要先逃脱警察的追捕]]></INeedToGetRidOfTheCopsFirst>
+            <ThrowPersonOnEye value="throw person on eye"><![CDATA[将人扔到眼睛里]]></ThrowPersonOnEye>
+        </ItemUse>
+
+        <Items>
+            <BloodySheets value="Bloody Sheets"><![CDATA[带血的床单]]></BloodySheets>
+            <Explosion value="Explosion"><![CDATA[爆炸]]></Explosion>
+            <BombExplosion value="Bomb Explosion"><![CDATA[炸弹爆炸]]></BombExplosion>
+            <ShoveKill value="Shove Kill"><![CDATA[推撞击杀]]></ShoveKill>
+            <Burning value="Burning"><![CDATA[燃烧]]></Burning>
+            <ElectricStrike value="Electric Strike"><![CDATA[电击]]></ElectricStrike>
+            <BarrelExplosion value="Barrel Explosion"><![CDATA[油桶爆炸]]></BarrelExplosion>
+            <TentCombustion value="Tent Combustion"><![CDATA[帐篷燃烧]]></TentCombustion>
+            <KillAndHide value="Kill And Hide"><![CDATA[击杀并隐藏]]></KillAndHide>
+            <HideBody value="Hide Body"><![CDATA[隐藏尸体]]></HideBody>
+            <GunFire value="Gun Fire"><![CDATA[开枪]]></GunFire>
+            <PandaKill value="Panda Kill"><![CDATA[熊猫击杀]]></PandaKill>
+            <Poisoned value="Poisoned"><![CDATA[下毒]]></Poisoned>
+            <FreeFall value="Free Fall"><![CDATA[自由落体]]></FreeFall>
+            <SlicedAndDiced value="Sliced And Diced"><![CDATA[切碎]]></SlicedAndDiced>
+            <Tortured value="Tortured"><![CDATA[折磨]]></Tortured>
+            <FallingTree value="Falling Tree"><![CDATA[树木倒下]]></FallingTree>
+            <MultipleKill value="Multiple Kill"><![CDATA[多重杀]]></MultipleKill>
+            <MassKill value="Mass Kill"><![CDATA[片杀]]></MassKill>
+            <NoCops value="No Cops"><![CDATA[无人报警]]></NoCops>
+            <QuickStab value="Quick Stab"><![CDATA[快速刺杀]]></QuickStab>
+            <PersonIsSliced value="person is sliced"><![CDATA[此人已被切碎]]></PersonIsSliced>
+            <StuningBaton value="stunning baton"><![CDATA[极好的警棍]]></StuningBaton>
+            <RunningSneakers value="running sneakers"><![CDATA[跑鞋]]></RunningSneakers>
+            <SpareClothes value="spare clothes"><![CDATA[备用服装]]></SpareClothes>
+            <SmokeGrenade value="smoke grenade"><![CDATA[烟雾弹]]></SmokeGrenade>
+            <StuningBomb value="stun bomb"><![CDATA[眩晕弹]]></StuningBomb>
+            <Bomb value="bomb"><![CDATA[炸弹]]></Bomb>
+            <Sword value="sword"><![CDATA[剑]]></Sword>
+            <Pizza value="Pizza"><![CDATA[披萨饼]]></Pizza>
+            <Poison value="Poison"><![CDATA[毒药]]></Poison>
+            <BearTrap value="Bear Trap"><![CDATA[熊之陷阱]]></BearTrap>
+            <WoodmansSaw value="Woodmans Saw"><![CDATA[伐木工的电锯]]></WoodmansSaw>
+            <Slash value="slash"><![CDATA[砍杀]]></Slash>
+            <Butchered value="butchered"><![CDATA[屠杀]]></Butchered>
+        </Items>
+
+        <WinScreen>
+            <Kills value="kills"><![CDATA[杀人数]]></Kills>
+            <Combo value="combo"><![CDATA[连杀数]]></Combo>
+            <Traps value="traps"><![CDATA[陷阱]]></Traps>
+            <Escape value="escape"><![CDATA[逃脱]]></Escape>
+            <TimeBonus value="time bonus"><![CDATA[时间奖励]]></TimeBonus>
+            <Overall value="Overall"><![CDATA[总数]]></Overall>
+        </WinScreen>
+    </IngameAssets>
+
+    <NewspaperTips>
+        <Tip1 value="Killing cops can cause special agents to arrive at the scene"><![CDATA[杀死警察将会使特工到达现场]]></Tip1>
+        <Tip2 value="Whenever you evade a cop, the next one will come back stronger"><![CDATA[一旦躲过一次警察,下一次来的警察将更加强壮]]></Tip2>
+        <Tip3 value="You can carry drunk people"><![CDATA[你可以扛起醉酒的人]]></Tip3>
+        <Tip4 value="You can use certain walls and furniture to hide from sight"><![CDATA[你可以利用墙壁及家具来躲避视线]]></Tip4>
+        <Tip5 value="Use your surroundings wisely"><![CDATA[灵活运用你周围的环境]]></Tip5>
+        <Tip6 value="Know when to get out of there quickly!"><![CDATA[知道应何时快速离开那里]]></Tip6>
+        <Tip7 value="Call for special guests"><![CDATA[给特殊客人打电话]]></Tip7>
+        <Tip8 value="Stay away from poisoned people"><![CDATA[远离中毒的人们]]></Tip8>
+        <Tip9 value="Try not to overuse hidden shortcuts"><![CDATA[尽量减少使用捷径的次数]]></Tip9>
+        <Tip10 value="Complete achievements to unlock characters"><![CDATA[完成成就从而解锁角色]]></Tip10>
+        <Tip11 value="It's best not to scare the crowd at the beginning of a level"><![CDATA[在关卡开始时最好不要让人群受到惊吓]]></Tip11>
+        <Tip12 value="Use traps to fend off cops"><![CDATA[使用陷阱来抵挡警察]]></Tip12>
+        <Tip13 value="Be smart with the bouncer - hit him with a trap or take him out from the back"><![CDATA[对付保镖要谨慎,使用陷阱或从背后干掉他]]></Tip13>
+        <Tip14 value="Take the right position"><![CDATA[选择合理位置]]></Tip14>
+        <Tip15 value="Horses are majestic beasts, so treat them with respect"><![CDATA[骏马高贵而雄壮,所以请尊重它们]]></Tip15>
+        <Tip16 value="Use sprint button to escape from crime scene"><![CDATA[按下冲刺键来快速逃离凶案现场]]></Tip16>
+        <Tip17 value="It takes time before bomb will explode"><![CDATA[炸弹爆炸需要一段时间]]></Tip17>
+        <Tip18 value="Spare clothes help to avoid arrest"><![CDATA[备用服装可以帮你逃脱追捕]]></Tip18>
+        <Tip19 value="Smoke grenade makes you invisible"><![CDATA[烟雾弹可使你隐身]]></Tip19>
+        <Tip20 value="Bring pizza to summon peoples"><![CDATA[带上披萨来召唤人们]]></Tip20>
+        <Tip21 value="With the sword you can make cleave attacks"><![CDATA[用剑可以使出劈斩攻击]]></Tip21>
+        <Tip22 value="Use sprint (tap twice) to escape from crime scene"><![CDATA[按下冲刺(快速按两次)逃离凶案现场]]></Tip22>
+    </NewspaperTips>
+
+    <Cutscenes>
+        <!--Intro-->
+        <Cutscene1>
+            <Key1 value="My name is Inspector John West. I was..."><![CDATA[我是约翰韦斯特检察官, 曾经...]]></Key1>
+            <Key2 value="Take your time, Mr West. Deep breaths. You want a drink?"><![CDATA[慢慢来,韦斯特先生.请放松,想喝点什么？]]></Key2>
+            <Key3 value="Whiskey. Hold the rocks."><![CDATA[威士忌,不加冰块.]]></Key3>
+            <Key4 value="Hold the rocks! Hilarious, Mr. West."><![CDATA[不加冰块! 你真搞笑, 韦斯特先生.]]></Key4>
+            <Key5 value="Fuck you. My name is Inspector John West. I was the officer in command on the Party Hard killings."><![CDATA[去你妈的.我是约翰韦斯特检察官,曾经是狂欢派对杀人案的负责人.]]></Key5>
+            <Key6 value="Can you describe to me exactly what the Party Hard killings were?"><![CDATA[你能给我详细描述一下什么是狂欢派对杀人案吗？]]></Key6>
+            <Key7 value="They were a series of murders strung across the U.S. during the Autumn Break of 2000, exclusively taking place in and around house parties,"><![CDATA[那是指在2000年秋假期间发生的系列凶杀案,案发地横穿美国,而且只发生在家庭派对上.]]></Key7>
+            <Key8 value="rooftop parties, cruise parties - you name it, this guy was there stabbing his way through the crowds."><![CDATA[屋顶派对, 游艇派对 - 你能想到的都有, 这家伙穿梭于人群之中并且疯狂作案.]]></Key8>
+            <Key9 value="And what was the motive, Mr. West?"><![CDATA[那么动机是什么呢,韦斯特先生？]]></Key9>
+            <Key10 value="This guy…"><![CDATA[这家伙…]]></Key10>
+            <Key11 value="...he just wanted some peace and quiet..."><![CDATA[…他只是想要一丝清净…]]></Key11>
+            <Key12 value="Maybe you should start from the beginning, Inspector."><![CDATA[也许你该从开头讲起,检察官.]]></Key12>
+            <Key13 value="It might give us a better idea of where this all went so wrong."><![CDATA[没准这样我们就能深入了解这一系列惨案源起何处.]]></Key13>
+        </Cutscene1>
+
+        <!--FirstMurder-->
+        <Cutscene3>
+            <Key1 value="One of my officers responded to a call down near North Beach."><![CDATA[我的一名下属警官在靠近北滩的位置接到一个电话.]]></Key1>
+            <Key2 value="It was end of April, so typically a bunch of the college kids in the area were getting hammered instead of prepping for their finals."><![CDATA[那是四月底,所以和以往一样,在那的一群大学生喝的烂醉,而不是在准备期末考.]]></Key2>
+            <Key3 value="If only the stupid bastards knew..."><![CDATA[如果那帮蠢蛋们知道的话...]]></Key3>
+        </Cutscene3>
+
+        <!--BikersRide-->
+        <Cutscene2>
+            <Key1 value="You arrived at the scene after the assailant had fled, correct?"><![CDATA[凶手刚逃离现场,你就到了,对吧?]]></Key1>
+            <Key2 value="A little after 3am, yeah."><![CDATA[刚过了凌晨3点,对.]]></Key2>
+            <Key3 value="Were you aware of his current mental state at this time, Mr. West?"><![CDATA[这次你是否注意到他当时的精神状态,韦斯特先生?]]></Key3>
+            <Key4 value="His mental state?"><![CDATA[他的精神状态?]]></Key4>
+            <Key5 value="His confusion. The blood dripping from his hands, like someone else was driving him forward - yet a bright light leading him onwards."><![CDATA[他内心的困惑.血从他手上滴落,像是有人在逼他向前 - 但又像是一束强光在指引他前进.]]></Key5>
+            <Key6 value="I heard that “bright light”, as you so eloquently put it, was just a bunch of biker trash scumbags in search of lost souls."><![CDATA[我听说过那个"强光",就如你所说的,那强光只是一群在寻找亡魂的垃圾人渣飞车族.]]></Key6>
+            <Key7 value="Guess he musta hitched a ride with them somehow."><![CDATA[我猜他一定是,用了某种办法和他们搭了便车.]]></Key7>
+            <Key8 value="Perhaps it was when they realized that the party was already dead - excuse the pun."><![CDATA[也许是在他们意识到派对已经死了的时候 - 抱歉用了双关语.]]></Key8>
+            <Key9 value="Speaking of dead, wasn’t your daughter Katie at that party, Mr. West?"><![CDATA[说到死亡,你女儿凯蒂不是也参加了派对吗,韦斯特先生？]]></Key9>
+            <Key10 value="...Seeing her blood zigzagging between those bathroom tiles... It was like a sledgehammer using my stomach as a welcome mat."><![CDATA[…当我看到她的血迹布满了浴室的地砖之间,我的胃里像是翻江倒海般难受.]]></Key10>
+            <Key11 value="Drowning without water. Jesus, she was so messed up that I couldn't even id the body."><![CDATA[全身上下都是血,天啊,她的样子惨不忍睹,以至于我都无法辨认她的身份.]]></Key11>
+        </Cutscene2>
+
+        <!--BusToVegas-->
+        <Cutscene4>
+            <Key1 value="They took me off the case after what happened with Katie, but let's just say I was keeping up to speed by other means."><![CDATA[当凯蒂遇害后,他们把我带离案发现场.但是,这么说吧,我一直在通过其他手段了解案件的最新进展.]]></Key1>
+            <Key2 value="Once the ranch massacre happened, my colleagues were more than happy to unofficially keep me informed."><![CDATA[当农场大屠杀刚发生后,我的同事们便主动私下里通知了我.]]></Key2>
+            <Key3 value="It seemed obvious to me that this was just the beginning, and I had Las Vegas down as one of the contenders for the next attack."><![CDATA[我觉得这显然只是刚开始,而且我对下次袭击案发地拉斯维加斯也熟悉得很.]]></Key3>
+            <Key4 value="Course, the problem is that Las Vegas is one hell of a landmass to keep a watchful eye over..."><![CDATA[当然,问题是拉斯维加斯太大了,要想保持警戒很难…]]></Key4>
+            <Key5 value="The kicker is that he was spotted leaving the scene on a shuttle bus. A goddamn bus!"><![CDATA[最厉害的是,有人发现他离开现场时是从一辆区间巴士上离开的.一辆该死的巴士上！]]></Key5>
+            <Key6 value="So you're saying the perpetrator was calm, even after what he'd just done?"><![CDATA[所以你的意思是说,犯罪嫌疑人很冷静,即使他刚刚行凶完毕？]]></Key6>
+            <Key7 value="I'm saying this kid was a fucking psycho."><![CDATA[我是说这孩子真他妈是个疯子.]]></Key7>
+            <Key8 value="Please, Mr West, try to stay professional."><![CDATA[韦斯特先生,请尽量保持专业一些.]]></Key8>
+            <Key9 value="You're a funny guy. Either way, I still don't know how he evaded the entire police force descending down on him."><![CDATA[你这人挺有意思.不管怎么说,整个警队在追捕他,我还是不清楚他是如何躲避的.]]></Key9>
+            <Key10 value="It was like the devil was on his side."><![CDATA[就像是他有恶魔相助.]]></Key10>
+        </Cutscene4>
+
+        <!--PavementWalk-->
+        <Cutscene5>
+            <Key1 value="The Vegas killings were the ones that really threw this son of a bitch into the spotlight - that's when the papers started calling him the Party Hard killer."><![CDATA[维加斯屠杀案还真是把这混蛋变成了焦点.就是从那时起,媒体称他为狂欢派对杀手.]]></Key1>
+            <Key2 value="Two massacres in one night. He had the gall to stalk the streets with cops all around him, sectioning off the city, and simply pick another spot to call his killing ground."><![CDATA[单单一晚上就发生两场屠杀.到处都是警察,他竟然还敢大摇大摆得走在街上,接着离开城市,然后随意再选一处进行杀戮.]]></Key2>
+            <Key3 value="But you know, Mr West, the city - this living, breathing organism, dowsed in lights and scars - it can really bring feelings bubbling up to the surface for some people."><![CDATA[但你知道,韦斯特先生,这城市 - 犹如活生生的有机体,混合着灯光与疤痕 - 它确实给一些人带来一种沸腾释放的感受.]]></Key3>
+            <Key4 value="Is that so? Why a roof party, then? It made no sense with his MO."><![CDATA[是这样吗？那为啥接着是场屋顶派对呢？按照他的惯用伎俩,这没道理啊.]]></Key4>
+            <Key5 value="On the contrary, Mr. West, I’d suggest it made perfect sense. Being so close to the sky, yet behaving like worms..."><![CDATA[正相反,韦斯特先生,我认为这完全讲得通.离得天空那么近,却像虫子般蠕动…]]></Key5>
+            <Key6 value="perhaps those people simply deserved to be back in the dirt where they belonged."><![CDATA[也许那些人只是应该回到原本属于他们的地方,泥土里.]]></Key6>
+        </Cutscene5>
+
+        <!--RoadAccident-->
+        <Cutscene6>
+            <Key1 value="And then... there was nothing."><![CDATA[然后…什么也没发生.]]></Key1>
+            <Key2 value="Months and months of goddamn nothing, just frustrating, goddamn silence."><![CDATA[数月过去了,该死的啥也没发生,只剩一片寂静,真是让人沮丧.]]></Key2>
+            <Key3 value="This shadow had swept through our lives and then hidden away like the yellow-belly piece of shit he is-"><![CDATA[他犹如影子一般从我们生活中席卷而过,然后又像坨屎一样胆小得藏了起来.]]></Key3>
+            <Key4 value="Mr West, please, let's stick to the facts. What do you think he was doing during this time?"><![CDATA[韦斯特先生,请就事论事.你认为他这段时间里都在干什么？]]></Key4>
+            <Key5 value="Damned if I know. Tell you what though, those months dragged and dragged - the papers wanted names, there was severe public unease,"><![CDATA[该死的,我也想知道.但是我和你讲啊,沉闷的几个月很慢的过去了 - 媒体需要猛料,同时公众对现状也深感不安,]]></Key5>
+            <Key6 value="the police force was a laughing stock. You'd never guess that one single sicko could rip this country apart so badly."><![CDATA[警队就是个笑柄.你永远也猜不到单单一个精神病就能让全国人民几乎崩溃.]]></Key6>
+            <Key7 value="And then one day... out in the desert... there was an encounter."><![CDATA[然后有一天…在一个没人的地方…有一次偶遇.]]></Key7>
+            <Key8 value="What kind of encounter?"><![CDATA[什么样的偶遇？]]></Key8>
+            <Key9 value="A guy driving late one night, told us later he nearly hit this guy who stepped out in the middle of the road."><![CDATA[一天晚上一位开夜车的伙计,后来告诉我们他差点就把这个走到马路中间的家伙给撞了.]]></Key9>
+            <Key10 value="Apparently he didn’t say much, although the driver was in shock as you’d expect."><![CDATA[很显然他话不多,然而司机的状况你也料到了,被吓坏了.]]></Key10>
+            <Key11 value="He just sort of… threw a flyer at the guy’s feet, said he needed help."><![CDATA[他只是有点…把一张传单扔在了脚下,然后说他需要帮助.]]></Key11>
+            <Key12 value="Needed help? What kind of help?"><![CDATA[需要帮助？什么样的帮助？]]></Key12>
+            <Key13 value="Said he needed a ride… to a party. On a boat."><![CDATA[说他需要搭个车...去参加一场派对.在艘船上.]]></Key13>
+        </Cutscene6>
+
+        <!--SinkingYacht-->
+        <Cutscene7>
+            <Key1 value="Ah yes, I heard about the cruise liner disaster... although I assume it wasn’t the rushing water that killed those people, as the news had us believe."><![CDATA[啊对,我听说过那场发生在豪华游轮的灾难…新闻报道说那些人死于湍急的水流之中,大部分人都相信,然而我并不那样认为.]]></Key1>
+            <Key2 value="Sometimes it’s easier to keep the people save by shielding them from the truth."><![CDATA[有时候不让人们知道真相反而更容易保证他们的安全.]]></Key2>
+            <Key3 value="Yeeess well, that’s an interesting sentiment, although I’m guessing the people on that boat may feel a bit short­-changed."><![CDATA[是啊,嗯,这个观点挺有意思.然而我猜那条船上的人们可能会觉得被骗了.]]></Key3>
+            <Key4 value="Though while we’re on the topic of truth, you were about to discover a truth of your own, am I right Mr. West?"><![CDATA[但是,在我们谈论真相的同时,你也即将发现一个你自身的真相,我说的对吗,韦斯特先生？]]></Key4>
+            <Key5 value="...The girl."><![CDATA[…那个女孩.]]></Key5>
+            <Key6 value="Yes, the girl. Tell me about the girl, Mr. West."><![CDATA[对,那个女孩.和我讲讲那个女孩吧,韦斯特先生.]]></Key6>
+            <Key7 value="From what I understand, she’d been… following him since he first began his descent to madness."><![CDATA[据我所知,她一直在…关注他,从他第一次堕落至疯狂时就开始关注.]]></Key7>
+            <Key8 value="Stalking him, perhaps?"><![CDATA[也许是,跟踪他？]]></Key8>
+            <Key9 value="Label it what you want. Seems like she was... a fan of his work."><![CDATA[随便你怎么定义.似乎她是…他杰作的粉丝.]]></Key9>
+            <Key10 value="Wanted to study his methods, as sick as it sounds. She was always a troubled child."><![CDATA[想去研究他的手法,就是这么病态.她一直就是个爱惹事的孩子.]]></Key10>
+            <Key11 value="You seem to be well acquainted with our newly found heroine, Mr West."><![CDATA[你似乎很熟悉这位我们刚刚发现的女英雄,韦斯特先生.]]></Key11>
+            <Key12 value="And you know exactly why, you son of a bitch. It was Katie. It was my daughter."><![CDATA[你当然知道为什么,你这混蛋.她是凯蒂,我的女儿.]]></Key12>
+        </Cutscene7>
+
+        <!--PartyBus-->
+        <Cutscene10>
+            <Key1 value="I didn't catch them in Miami. I didn't even visit the scene."><![CDATA[在迈尔密我没找到他们,甚至连罪案现场我都没去.]]></Key1>
+            <Key2 value="Why was that, Mr. West?"><![CDATA[为什么没去,韦斯特先生？]]></Key2>
+            <Key3 value="Tired, I guess. I'd been chasing this nut job for months by that point."><![CDATA[我想是累了吧.在那之前我几个月来一直在追踪这个疯子.]]></Key3>
+            <Key4 value="And now that Katie was confirmed to be in his company. It was a lot for one man to take in."><![CDATA[而且现在凯蒂也被证实和他在一起.这样的事实我一时接受不了.]]></Key4>
+            <Key5 value="How did you think Katie was involved, Mr. West? She was always one to be driven by danger, correct?"><![CDATA[你认为凯蒂是如何参与进来的,韦斯特先生？她总是受危险驱使,对吗？]]></Key5>
+            <Key6 value="It’s a strange, fucked up situation you’re in, if you’re hoping, praying, that your own daughter has been snatched away by a mad man."><![CDATA[你现在的境况混乱不堪,如果你希望或是祈祷自己的女儿被一个疯子给夺走了.]]></Key6>
+            <Key7 value="It was better than the alternatives."><![CDATA[这总比其它选择好.]]></Key7>
+            <Key8 value="It must have crossed your mind that Katie was, in fact, the killer all along? "><![CDATA[在你脑中一定闪现过这样的想法,事实上,凯蒂一直是,凶手？]]></Key8>
+            <Key9 value="It would have been clever really, faking her own death to escape an abusive father. How was your relationship with your daughter, Mr. West?"><![CDATA[她真的很聪明啊.伪造自己的死亡用来逃离父亲的虐待.你和你女儿的关系如何,韦斯特先生？]]></Key9>
+            <Key10 value="Goddamn you. God fucking damn you."><![CDATA[操你妈.我操你妈.]]></Key10>
+        </Cutscene10>
+
+        <!--ForestCrash-->
+        <Cutscene8>
+            <Key1 value="I finally caught them a few weeks later, out in the middle of nowhere, his car just pulled up onto a dirt path."><![CDATA[几周后我终于找到了他们,在一个偏僻无人的地方,他的车正停在一条泥泞的小路上.]]></Key1>
+            <Key2 value="What was he doing, Mr. West?"><![CDATA[他正在干什么,韦斯特先生？]]></Key2>
+            <Key3 value="I'd been staring at photos of Katie every night for the last month. The ink had started to run off where I'd been pressing the corners so tightly­"><![CDATA[上个月我每天晚上都盯着凯蒂的照片看.照片的边角那里因为我抓的太紧都褪色了.]]></Key3>
+            <Key4 value="What was he doing, Mr. West?"><![CDATA[他正在干什么,韦斯特先生？]]></Key4>
+            <Key5 value="He was… admiring his handiwork."><![CDATA[他正在…欣赏自己的杰作.]]></Key5>
+            <Key6 value="I wouldn’t worry, Mr. West. The chances are it’s what she wanted anyway – to be one of his works of art, so to speak."><![CDATA[是我就不会太担心这个,韦斯特先生.没准这就是她想要的 - 成为他的一件艺术作品.]]></Key6>
+            <Key7 value="Fuck you. I was ready to put a bullet in the back of his head there and then. It would have been so easy, so satisfying. It was what he deserved."><![CDATA[去你妈的.当时我就准备给他后脑勺来一枪.本来是非常容易的,也非常满足.他罪有应得.]]></Key7>
+            <Key8 value="What changed your mind?"><![CDATA[那你为何没这样做呢？]]></Key8>
+            <Key9 value="I’m a cop, Darius. The American people rely on figures like myself to uphold the law. Killing him would have made us one and the same."><![CDATA[我是一名警察,达利斯.美国人民需要像我这样的人来维护法律.杀了他只会使我变得和他一样.]]></Key9>
+            <Key10 value="How very noble of you, John."><![CDATA[你可真高尚啊,约翰.]]></Key10>
+            <Key11 value="Once again, fuck you. But you know, the world has a funny way of showing gratitude for such self­less acts."><![CDATA[再来一次,去你妈的.但你知道,这世上用来感恩这种无私行为的方式还挺有趣.]]></Key11>
+            <Key12 value="I assume you’re referring to the blinding light that apparently “engulfed” your car?"><![CDATA[我认为你指的是那道耀眼的光芒,那道光芒吞噬了你的车？]]></Key12>
+            <Key13 value="I still have no idea what it was, or what caused it. I guess this terror of darkness has somehow found a friend in the light. And of course, when I came to..."><![CDATA[我仍然不知道那是什么,或者发生了什么.我猜这位黑暗行者莫名其妙地在光明中找到了一位朋友.当然后面，我醒来...]]></Key13>
+            <Key14 value="I found my car had made a strong connection with rather incompatible foliage. Worse still, my back seat was devoid of serial killers."><![CDATA[我发现车周围都是树叶,引擎也熄火,车子几乎报废.更糟的是,后排座位上的连环杀手消失的无影无踪.]]></Key14>
+        </Cutscene8>
+
+        <!--AmbulanceTrip-->
+        <Cutscene9>
+            <Key1 value="The descent. A violent maelstrom. Nature has a way of bringing even the most devious of minds back down to earth,"><![CDATA[堕落.剧烈的漩涡.即使是最狡猾的头脑,也会被大自然带回现实之中,]]></Key1>
+            <Key2 value="and shortly after the saw mill massacre, our psychopath succumbed to the outdoors, of all things."><![CDATA[然后在发生锯木厂屠杀不久之后,我们的精神变态竟然走到了户外.]]></Key2>
+            <Key3 value="Really now Mr. West, can we stop with the cliched storytelling. This isn’t a tale from Narnia."><![CDATA[就现在韦斯特先生,这陈辞滥调的故事赶紧打住.这又不是纳尼亚传奇.]]></Key3>
+            <Key4 value="How could you possibly know his motivations for being in that wood? Perhaps he wanted to feel closer to the nature."><![CDATA[你怎么能知道他为何要去那树林里？也许他只是想更接近大自然而已.]]></Key4>
+            <Key5 value="Perhaps he was tired of killing. Just perhaps, he wanted to feel closer to his victims."><![CDATA[也许他厌倦了杀戮.也许他只是,想更接近那些受害者.]]></Key5>
+            <Key6 value="All I know is, when the cops turned up to search the surrounding areas they turned up nothing."><![CDATA[我只知道,当警察来了并对周边区域进行搜查时,他们一无所获.]]></Key6>
+            <Key7 value="And this was a place right out in the middle of nowhere, so it wasn’t like he could have gone far. There was only one possible explanation..."><![CDATA[并且这地方处于偏僻无人区里,所以他不可能走远的.只有一个合理的解释...…]]></Key7>
+            <Key8 value="He’d managed to hitch a ride out of there."><![CDATA[他设法搭上了便车离开了那里.]]></Key8>
+            <Key9 value="You think he called the paramedics himself?"><![CDATA[你认为是他自己呼叫的医护人员？]]></Key9>
+            <Key10 value="Well it makes sense, right? Splatter yourself with some of the blood at a mass murder scene,"><![CDATA[嗯,这说得通,对吧？在大屠杀现场找点血渍泼溅在自己身上.]]></Key10>
+            <Key11 value="and the medics aren’t exactly going to be picky about who they pick up. He’s breathing, so you get him in the wagon asap."><![CDATA[而且医护人员对要救谁并不挑剔.他还有呼吸,你立即把他抬到救护车上.]]></Key11>
+            <Key12 value="Of course, this particular “victim” was breathing a little too well for his, and their, own good."><![CDATA[当然,这个特殊的"受害者"所做出的呼吸动作有点太好了,这么做是为了他自己,也是为了他们着想.]]></Key12>
+            <Key13 value="I guess they may well be adding a new phrase to the ambulance protocol handbook: Never give drugs to a psychopath."><![CDATA[我猜他们应该在急救流程手册里新加一条:永远不要给精神病变态用药.]]></Key13>
+        </Cutscene9>
+
+        <!--Halloween-->
+        <Cutscene12>
+            <Key1 value="His craft continued onwards for the next few weeks at pretty full force."><![CDATA[他的手法在接下来的几周内愈加娴熟,更具危险性.]]></Key1>
+            <Key2 value="As I understand it, his newfound experience with medicinal drugs really got him fired up, correct?"><![CDATA[据我所知,他新发现的这种药物体验真是让他火力全开,对吧？]]></Key2>
+            <Key3 value="He just became unrelenting, and the public were completely losing confidence in the police force."><![CDATA[他变得更加无情,并且公众也对警队彻底失去了信心.]]></Key3>
+            <Key4 value="Well, no, they’d already lost all confidence – now they were forming task forces and going out into the streets themselves looking for him."><![CDATA[嗯,不,他们已经丧失了所有信心 - 现在他们自发组成工作小组并亲自走上街头搜寻他.]]></Key4>
+            <Key5 value="He even had “followers” by this point – groups of people who saw what he was doing as some kind of means to a human Utopia."><![CDATA[至此他甚至有了"粉丝" - 成群的人们将他的所作所为视作是某种到达人类乌托邦的手段.]]></Key5>
+            <Key6 value="We just couldn’t keep up with him."><![CDATA[我们已经追不上他了.]]></Key6>
+        </Cutscene12>
+
+        <!--CampusInvite-->
+        <Cutscene11>
+            <Key1 value="We’re getting close to the end of the story, isn’t that right, John."><![CDATA[我们离故事的尾声也不远了,对不对,约翰？]]></Key1>
+            <Key2 value="A bunch of his avid followers – his so­called “Party Harders” – were said to be holding a party down in the San Francisco subway after hours."><![CDATA[他的一帮狂热粉丝 - 他所谓的"狂热派对者" - 说要在几小时后在旧金山地铁站里举办一场派对.]]></Key2>
+            <Key3 value="And you heard about the party just in time to catch him, is that correct?"><![CDATA[并且你正好也听说了派对的事以便抓住他,对吗？]]></Key3>
+            <Key4 value="That’s what I was hoping."><![CDATA[那正是我所希望的.]]></Key4>
+            <Key5 value="What was your plan exactly? The last time you had encountered this man, it didn’t exactly swing in your favor."><![CDATA[你的计划到底是什么？最后一次你遇到这货的时候,那情况可对你不利啊.]]></Key5>
+            <Key6 value="I knew exactly what I had to do. It was plain and simple: He had to be stopped."><![CDATA[我深知自己所必须要做的.简单明了的说:必须阻止他.]]></Key6>
+        </Cutscene11>
+
+        <!--Underground-->
+        <Cutscene15>
+            <Key1 value="So tell me, John - did you find what you were looking for down here?"><![CDATA[那么告诉我,约翰 - 你在这里找到你要找的了吗？]]></Key1>
+            <Key2 value="You fuckin’ tell me, Darius."><![CDATA[你他妈的告诉我啊,达利斯.]]></Key2>
+            <Key3 value="You know John, we’re really not that different, you and I."><![CDATA[约翰你知道的.你和我,我们真的并没有什么不同.]]></Key3>
+            <Key4 value="You can make out like you’re the heart of gold and I’m the malicious prick here, but you never really tried to stop me, did you?"><![CDATA[你可以说你有颗金子般的心,而我只是个心术不正的蠢货而已.但你从来没有真正要阻止过我,不是吗？]]></Key4>
+            <Key5 value="You say that like I had a choice."><![CDATA[你说的好像我能选择似的.]]></Key5>
+            <Key6 value="You always had a choice, John, you know that. You’re not weak."><![CDATA[你一直都可以做出选择,约翰,你知道的.你不是弱者.]]></Key6>
+            <Key7 value="You allowed me to do these things, John, and now you want to justify it all to yourself, wash your hands clean of any wrongdoing."><![CDATA[我做这些事情你是允许的,约翰.现在你想为自己辩解,想金盆洗手,想把以前的全部恶行一笔勾销.]]></Key7>
+            <Key8 value="I don’t… I’m not like you."><![CDATA[我不…我和你不一样.]]></Key8>
+            <Key9 value="Come on John, sooner or later you’re going to have to admit it to yourself. You enjoy the rush just as much as I do. The splatter. The silence."><![CDATA[别扯了,约翰.你迟早会不得不对自己承认的.你和我一样享受着涌动.飞溅.寂静.]]></Key9>
+            <Key10 value="I just… I mean, do they really all deserve this?"><![CDATA[我只是…我的意思是,他们真的应该落得如此下场吗？]]></Key10>
+            <Key11 value="John, look around you. The world is falling to shit. These people, they don’t realize how good they’ve got it. We’re doing them all a favour."><![CDATA[约翰,看看你周围.这世界正在崩塌.这些人们,他们真是身在福中不知福.我们是在帮他们.]]></Key11>
+            <Key12 value="But I­-"><![CDATA[但是我--]]></Key12>
+            <Key13 value="John. You’ve just spent the last half hour sat here trying to convince yourself that what we’re doing is wrong. What have you learnt?"><![CDATA[约翰.你刚刚花了半个小时就坐在这里并试图说服自己我们所做的一切都是错的.你从中学到了什么？]]></Key13>
+            <Key14 value="I..."><![CDATA[]]></Key14>
+            <Key15 value="Someone needs to be thinking about the bigger picture, I guess"><![CDATA[我想,有人需要考虑一下更加宏伟的计划.]]></Key15>
+            <Key16 value="There you go, John, you get it now. Let it go."><![CDATA[这就对了,约翰,你现在懂了.任它去吧.]]></Key16>
+            <Key17 value="Come on Darius. Let’s go home."><![CDATA[来吧达利斯,我们回家.]]></Key17>
+        </Cutscene15>
+        <!--<Key1 value=""><![CDATA[]]></Key1>-->
+
+        <!--VanKiller-->
+        <Cutscene17>
+            <Key1 value="The night is dark, the dark is quiet, but full moon came and here they are."><![CDATA[夜色晦暗，万物俱寂，但今是满月，他们聚于此。]]></Key1>
+            <Key2 value="Old castle, this dwelling for those ancient creatures is cursed."><![CDATA[一座古老的城堡，这座远古生物的住所被诅咒了。]]></Key2>
+            <Key3 value="Under the moon light they awoke, celebration is coming though dreadful things would happen next."><![CDATA[在月光下，他们醒来，庆典即将开始，尽管接下来会发生的事情会很恐怖。]]></Key3>
+            <Key4 value="Is anyone willing to cease their existence?"><![CDATA[有人会愿意自我了断吗？]]></Key4>
+            <Key5 value="I don't think so."><![CDATA[我不这么认为。]]></Key5>
+            <Key6 value="I'm the fear, I'm the shadow, I'm the blade. Their time is running out."><![CDATA[吾乃恐惧之化身，阴影之主宰，吾之利刃已出鞘，他们末日已至。]]></Key6>
+        </Cutscene17>
+
+        <!--DLC2-->
+        <!--IncidentInWood-->
+        <Cutscene20>
+            <Key1 value="It’s easier to sleep within the darkness, when your soul is darker than night. 10 years have passed. 10 years, and the demons inside me are still strong."><![CDATA[当灵魂比夜色更黑暗时，你就更容易在黑暗中入睡.十年已经过去了，十年了，我内心的恶魔依旧强大.]]></Key1>
+            <Key2 value="There are moments when the beast is especially dangerous. Should you disturb his peace, and he’ll show his true hideous face."><![CDATA[在某些时候，这些怪物会变的特别危险.如果你打扰了他的安宁，他就会露出他那张丑陋的真面目.]]></Key2>
+            <Key3 value="The worst thing for a human being is a delusional mind. It has no shame or morale."><![CDATA[对一个人来说，最糟糕的事情就是妄想. 它没有羞耻或道德.]]></Key3>
+            <Key4 value="You stop caring about other beings, and take over their space."><![CDATA[你不再关心其他生物，并占领了他们的地盘.]]></Key4>
+            <Key5 value="How many times did I wander this path, and how many times did I try to avoid it."><![CDATA[我在这条路上徘徊了多少次，又有多少次我试图避开它.]]></Key5>
+            <Key6 value="Should the beast show his claws, he instantly gets fed with lies and promises."><![CDATA[Should the beast show his claws, he instantly gets fed with lies and promises.]]></Key6>
+            <Key7 value="From the tales of this scum it’s clear that the city is terminally ill. It needs cleansing."><![CDATA[From the tales of this scum it’s clear that the city is terminally ill. It needs cleansing.]]></Key7>
+            <Key8 value="Candidly legalized and sheltered by the local authorities, the drug has consumed the city."><![CDATA[Candidly legalized and sheltered by the local authorities, the drug has consumed the city.]]></Key8>
+            <Key9 value="This time I will be smarter. I will strike this evil into its heart. Let’s see who partakes in such obscenity. What happens next… the beast will decide."><![CDATA[This time I will be smarter. I will strike this evil into its heart. Let’s see who partakes in such obscenity. What happens next… the beast will decide.]]></Key9>
+        </Cutscene20>
+
+        <!--InPoliceStation-->
+        <Cutscene21>
+            <Key1 value="I wasn’t surprised that these scumbags have cops on payroll. Dirty pigs. A hydra usually has several heads spitting venom. It made itself a nest in the city."><![CDATA[I wasn’t surprised that these scumbags have cops on payroll. Dirty pigs. A hydra usually has several heads spitting venom. It made itself a nest in the city.]]></Key1>
+            <Key2 value="They think they can break me. My mind is fractured. They think I’ve given up. Nothing but a shell is left."><![CDATA[They think they can break me. My mind is fractured. They think I’ve given up. Nothing but a shell is left.]]></Key2>
+            <Key3 value="I could never call them model policemen. But now it’s beyond comprehension. Vultures, feasting in the corpse of what used to be a thriving city."><![CDATA[I could never call them model policemen. But now it’s beyond comprehension. Vultures, feasting in the corpse of what used to be a thriving city.]]></Key3>
+            <Key4 value="This city is lost. It’s spiraling into the abyss. Those who were supposed to protect it are responsible."><![CDATA[This city is lost. It’s spiraling into the abyss. Those who were supposed to protect it are responsible.]]></Key4>
+            <Key5 value="They think they broke me. No. Now I know what to do. I’m on the righteous path, and they helped me see it. The city will be cleansed when the police chief’s blood is dripping from the blade of my knife."><![CDATA[They think they broke me. No. Now I know what to do. I’m on the righteous path, and they helped me see it. The city will be cleansed when the police chief’s blood is dripping from the blade of my knife.]]></Key5>
+            <Key6 value="The human in me is broken, there’s no doubting that. This world has been sucking humanity out of me for a while now. But the beast is only getting stronger…"><![CDATA[The human in me is broken, there’s no doubting that. This world has been sucking humanity out of me for a while now. But the beast is only getting stronger…]]></Key6>
+        </Cutscene21>
+
+        <!--WithCop-->
+        <Cutscene22>
+            <Key1 value="A fine example of greed and betrayal. The police chief, selling his loyalty to the highest bidder."><![CDATA[A fine example of greed and betrayal. The police chief, selling his loyalty to the highest bidder.]]></Key1>
+            <Key2 value="He’s taking me into the belly of the beast. To the center of evil that consumed this city. People become very submissive once there’s a blade scraping against their neck."><![CDATA[He’s taking me into the belly of the beast. To the center of evil that consumed this city. People become very submissive once there’s a blade scraping against their neck.]]></Key2>
+            <Key3 value="I’ll keep him by my side. He’ll take me to his lackey. He should witness the fall of his rotten empire. I want to see the pain and despair in his eyes as everything crumbles down."><![CDATA[I’ll keep him by my side. He’ll take me to his lackey. He should witness the fall of his rotten empire. I want to see the pain and despair in his eyes as everything crumbles down.]]></Key3>
+        </Cutscene22>
+
+        <!--SelfAnalysis-->
+        <Cutscene23>
+            <Key1 value="I made a misstep. The rage blinded my judgement, and I couldn’t see the lies in the cop’s voice. My rage has failed me. This is my fault."><![CDATA[I made a misstep. The rage blinded my judgement, and I couldn’t see the lies in the cop’s voice. My rage has failed me. This is my fault.]]></Key1>
+            <Key2 value="Is this where it ends? A new order that favors demons and escalates them to power. Built on broken lives."><![CDATA[Is this where it ends? A new order that favors demons and escalates them to power. Built on broken lives.]]></Key2>
+            <Key3 value="I can’t leave this world just yet. There are things to do. Justice requires sacrifice. The hearts of my kidnappers can’t beat longer than my own."><![CDATA[I can’t leave this world just yet. There are things to do. Justice requires sacrifice. The hearts of my kidnappers can’t beat longer than my own.]]></Key3>
+        </Cutscene23>
+
+        <!--DumpTheMask-->
+        <Cutscene24>
+            <Key1 value="This doesn’t feel right. I don’t feel satisfied. One of the corrupted heads of this city is dead. But who’s to say the poison didn’t get deeper?"><![CDATA[This doesn’t feel right. I don’t feel satisfied. One of the corrupted heads of this city is dead. But who’s to say the poison didn’t get deeper?]]></Key1>
+            <Key2 value="There will always be someone who think they own you. Their followers will corrupt and poison everything that lives. Poison their humanity."><![CDATA[There will always be someone who think they own you. Their followers will corrupt and poison everything that lives. Poison their humanity.]]></Key2>
+            <Key3 value="I can’t do this any longer. It’s time to break the cycle."><![CDATA[I can’t do this any longer. It’s time to break the cycle.]]></Key3>
+        </Cutscene24>
+    </Cutscenes>
+
+    <SpecialEvents>
+        <Zombie>
+            <Key1 value="Braaaainsss"><![CDATA[脑奥奥奥子]]></Key1>
+            <Key2 value="Mrlmlgrmlgr"><![CDATA[噢噢]]></Key2>
+            <Key3 value="GrrrrGrr"><![CDATA[呃呃]]></Key3>
+            <Key4 value="RaaraaarwwrRWwr"><![CDATA[哇啊啊啊啊]]></Key4>
+            <Key5 value="Aaawwwaarawawaw"><![CDATA[啊啊啊啊啊]]></Key5>
+            <Key6 value="Brllllrll"><![CDATA[呶呶]]></Key6>
+        </Zombie>
+
+        <Vampire>
+            <Key1 value="Follow into the void with me"><![CDATA[随我进入空虚吧]]></Key1>
+            <Key2 value="Immortality - it will be my gift to you"><![CDATA[不死 - 这将是我给予你的礼物]]></Key2>
+            <Key3 value="Let me taste your blood"><![CDATA[让我尝尝你的鲜血]]></Key3>
+            <Key4 value="Mortals, i can show you real life"><![CDATA[凡人们,让我给你们展示真正的生命吧]]></Key4>
+            <Key5 value="Just leave the suffering behind"><![CDATA[将苦难丢弃]]></Key5>
+            <Key6 value="Pain - it's just illusion"><![CDATA[痛苦 - 只是幻觉]]></Key6>
+            <Key7 value="I feel the darkness inside you"><![CDATA[我能感受到你内心的黑暗]]></Key7>
+        </Vampire>
+    </SpecialEvents>
+
+    <Twitch>
+        <TwitchPanel>
+            <Key1 value="new event, vote now!"><![CDATA[新事件,现在就投票！]]></Key1>
+            <Key2 value="event activated"><![CDATA[事件已激活]]></Key2>
+            <Key3 value="disconected"><![CDATA[已断开连接]]></Key3>
+            <Key4 value="disabled on this level"><![CDATA[在此关卡关闭]]></Key4>
+        </TwitchPanel>
+    </Twitch>
+
+    <WorkshopContainer>
+        <Workshop>
+            <Key1 value="Editor"><![CDATA[编辑器]]></Key1>
+            <Key2 value="Suggested"><![CDATA[推荐]]></Key2>
+            <Key3 value="Top"><![CDATA[排行]]></Key3>
+            <Key4 value="Subscribed"><![CDATA[已订阅]]></Key4>
+            <Key5 value="Preview"><![CDATA[预览]]></Key5>
+            <Key6 value="edit"><![CDATA[编辑]]></Key6>
+            <Key7 value="create"><![CDATA[创建]]></Key7>
+            <Key8 value="play"><![CDATA[开始游戏]]></Key8>
+            <Key9 value="title"><![CDATA[标题]]></Key9>
+            <Key10 value="description"><![CDATA[描述]]></Key10>
+            <Key11 value="loading"><![CDATA[载入]]></Key11>
+            <Key12 value="menu"><![CDATA[菜单]]></Key12>
+            <Key13 value="save local"><![CDATA[本地保存]]></Key13>
+            <Key14 value="publish new"><![CDATA[发布新作品]]></Key14>
+            <Key15 value="update"><![CDATA[更新]]></Key15>
+            <Key16 value="quit"><![CDATA[退出]]></Key16>
+            <Key17 value="back"><![CDATA[返回]]></Key17>
+            <Key18 value="WallsFloor"><![CDATA[墙壁与地板]]></Key18>
+            <Key19 value="nodes"><![CDATA[节点]]></Key19>
+            <Key20 value="people"><![CDATA[人物]]></Key20>
+            <Key21 value="furniture"><![CDATA[家具]]></Key21>
+            <Key22 value="traps"><![CDATA[陷阱]]></Key22>
+            <Key23 value="construction"><![CDATA[建造]]></Key23>
+            <Key24 value="search"><![CDATA[搜索]]></Key24>
+            <Key25 value="walls"><![CDATA[墙壁]]></Key25>
+            <Key26 value="floor"><![CDATA[地板]]></Key26>
+            <Key27 value="structure"><![CDATA[结构]]></Key27>
+            <Key28 value="background"><![CDATA[背景]]></Key28>
+            <Key29 value="template"><![CDATA[模板]]></Key29>
+            <Key30 value="decor"><![CDATA[装饰]]></Key30>
+            <Key31 value="equipment"><![CDATA[设备]]></Key31>
+            <Key32 value="backyard"><![CDATA[后院]]></Key32>
+            <Key33 value="nodes_tmp"><![CDATA[节点]]></Key33>
+            <Key34 value="crowd"><![CDATA[人物]]></Key34>
+            <Key35 value="special"><![CDATA[特殊]]></Key35>
+            <Key36 value="animals"><![CDATA[动物]]></Key36>
+            <Key37 value="timing"><![CDATA[计时类]]></Key37>
+            <Key38 value="hide body"><![CDATA[隐藏类]]></Key38>
+            <Key39 value="damage"><![CDATA[破坏类]]></Key39>
+            <Key40 value="active"><![CDATA[自动开启类]]></Key40>
+            <Key41 value="items"><![CDATA[物品]]></Key41>
+            <Key42 value="workshop_help_window"><![CDATA[欢迎来到Party Hard关卡编辑器
+ 
+请记住,这仅是测试版编辑器,随后将加入更多功能,务必在steam创意工坊帖子中留下您的建议,最重要的是,玩得开心！
+ 
+未来将会加入教程及细化帮助.
+
+创意工坊基本功能
+点击鼠标左键 - 从类别中选择物品
+点击鼠标中键 - 选择前一物品
+点击鼠标右键 - 取消当前选择
+
+物品选择
+在舞台上的物品上点击左键以选择此物品
+点击并按住鼠标左键用以拖拽物品
+点击鼠标左键的同时按住CTRL键用来进行多个选择
+在空白区域点击鼠标左键并拖拽指针用来进行多个选择
+
+CTRL-U - AI路径选择器
+CTRL-T - AI路径创建器
+]]></Key42>
+            <Key43 value="additional levels"><![CDATA[附加关卡]]></Key43>
+            <Key44 value="get more"><![CDATA[获得更多]]></Key44>
+            <Key45 value="AI path selector"><![CDATA[AI路径选择器]]></Key45>
+            <Key46 value="On Complete"><![CDATA[完成]]></Key46>
+            <Key47 value="Delete"><![CDATA[删除]]></Key47>
+            <Key48 value="Depth"><![CDATA[深度]]></Key48>
+            <Key49 value="Create Ai Path"><![CDATA[创建AI路径]]></Key49>
+            <Key50 value="Ok"><![CDATA[OK]]></Key50>
+            <Key51 value="Text"><![CDATA[文本]]></Key51>
+            <Key52 value="Selected objects"><![CDATA[已选择物体]]></Key52>
+            <Key53 value="Objects on scene"><![CDATA[场景内的物体]]></Key53>
+            <Key54 value="Information Window"><![CDATA[信息窗口]]></Key54>
+            <Key55 value="Help Window"><![CDATA[帮助窗口]]></Key55>
+            <Key56 value="Name"><![CDATA[名字]]></Key56>
+            <Key57 value="dislike"><![CDATA[不喜欢]]></Key57>
+            <Key58 value="rate it"><![CDATA[评价]]></Key58>
+            <Key59 value="featured "><![CDATA[特色]]></Key59>
+        </Workshop>
+    </WorkshopContainer>
+    <NewText>
+        <key1 value="Objective: kill them all!"><![CDATA[目标：把他们全杀了！]]></key1>
+        
+        <key2 value="moppet"><![CDATA[小屁孩]]></key2>
+        <key3 value="noob"><![CDATA[菜鸟]]></key3>
+        <key4 value="easy bot"><![CDATA[简单的电脑]]></key4>
+        <key5 value="kitty"><![CDATA[人畜无害的小猫咪]]></key5>
+        <key6 value="chicken"><![CDATA[菜鸡]]></key6>
+        <key6 value="loser"><![CDATA[撸瑟]]></key6>
+        <key7 value="try tutorial"><![CDATA[再试试教程关吧]]></key7>
+        <key8 value="pussy"><![CDATA[菜逼]]></key8>
+
+        <key9 value="pacifist"><![CDATA[和平主义者]]></key9>
+        <key10 value="tiny crusher"><![CDATA[小破碎机]]></key10>
+        <key11 value="next time try better"><![CDATA[下次试着做的更好]]></key11>
+        <key12 value="bot AI"><![CDATA[机器人AI]]></key12>
+        <key13 value="shot-knee"><![CDATA[shot-knee]]></key13>
+        <key14 value="peacewalker"><![CDATA[和平行者]]></key14>
+        <key15 value="spectator"><![CDATA[局外人]]></key15>
+        <key16 value="support"><![CDATA[跑龙套]]></key16>
+        
+        <key17 value="weak reaper"><![CDATA[弱小收割机]]></key17>
+        <key18 value="not casual"><![CDATA[不马虎]]></key18>
+        <key19 value="partymaker"><![CDATA[派对灵魂人物]]></key19>
+        <key20 value="benefactor"><![CDATA[金主]]></key20>
+        <key21 value="beginner killer"><![CDATA[新晋杀手]]></key21>
+        <key22 value="trainee"><![CDATA[练习生]]></key22>
+        <key23 value="typical guy"><![CDATA[典型人物]]></key23>
+        <key24 value="curious deadman"><![CDATA[好奇的亡者]]></key24>
+        
+        <key25 value="beginner warrior"><![CDATA[新手战士]]></key25>
+        <key26 value="almost assassin"><![CDATA[刺客近成]]></key26>
+        <key27 value="impudent biker"><![CDATA[不恭骑手]]></key27>
+        <key28 value="local maniac"><![CDATA[本地狂人]]></key28>
+        <key29 value="bad aimbot"><![CDATA[失控杀戮机器]]></key29>
+        <key29 value="failed punisher"><![CDATA[失败的惩戒者]]></key29>
+        <key30 value="wrestler friend"><![CDATA[摔跤手朋友]]></key30>
+        <key31 value="onion knight"><![CDATA[洋葱骑士]]></key31>
+
+        <key31 value="human bean"><![CDATA[可怜的人]]></key31>
+        <key32 value="brute"><![CDATA[暴徒]]></key32>
+        <key33 value="chaos champion"><![CDATA[混沌斗士]]></key33>
+        <key34 value="savage gladiator"><![CDATA[野蛮角斗士]]></key34>
+        <key35 value="party devil"><![CDATA[派对魔鬼]]></key35>
+        <key36 value="party animal"><![CDATA[派对野兽]]></key36>
+        <key37 value="ninja style"><![CDATA[忍者风范]]></key37>
+        <key38 value="dead can dance"><![CDATA[死亦可舞]]></key38>
+
+        <personfalling value="person is falling"><![CDATA[人已推下]]></personfalling>
+    </NewText>
+</Root>
