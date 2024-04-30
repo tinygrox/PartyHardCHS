@@ -10,3 +10,7 @@
 ## 二、其他说明
 
 本项目仅做学习交流之用，请勿用于其他用途。
+
+如要使用自己的字体，使用 Bitmap Font Generator 创建字体后，将 bnt 文件和 png 图片放到本插件根目录下，确保文件名为 bitfont.fnt 和 bitfont.png
+
+如要修改自己的翻译，修改插件目录下的 Lang 文件夹内的 lang_smch 文件即可
