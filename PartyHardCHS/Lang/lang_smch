@@ -851,44 +851,44 @@
         <Cutscene20>
             <Key1 value="It’s easier to sleep within the darkness, when your soul is darker than night. 10 years have passed. 10 years, and the demons inside me are still strong."><![CDATA[当灵魂比夜色更黑暗时，你就更容易在黑暗中入睡.十年已经过去了，十年了，我内心的恶魔依旧强大.]]></Key1>
             <Key2 value="There are moments when the beast is especially dangerous. Should you disturb his peace, and he’ll show his true hideous face."><![CDATA[在某些时候，这些怪物会变的特别危险.如果你打扰了他的安宁，他就会露出他那张丑陋的真面目.]]></Key2>
-            <Key3 value="The worst thing for a human being is a delusional mind. It has no shame or morale."><![CDATA[对一个人来说，最糟糕的事情就是妄想. 它没有羞耻或道德.]]></Key3>
-            <Key4 value="You stop caring about other beings, and take over their space."><![CDATA[你不再关心其他生物，并占领了他们的地盘.]]></Key4>
-            <Key5 value="How many times did I wander this path, and how many times did I try to avoid it."><![CDATA[我在这条路上徘徊了多少次，又有多少次我试图避开它.]]></Key5>
-            <Key6 value="Should the beast show his claws, he instantly gets fed with lies and promises."><![CDATA[Should the beast show his claws, he instantly gets fed with lies and promises.]]></Key6>
-            <Key7 value="From the tales of this scum it’s clear that the city is terminally ill. It needs cleansing."><![CDATA[From the tales of this scum it’s clear that the city is terminally ill. It needs cleansing.]]></Key7>
-            <Key8 value="Candidly legalized and sheltered by the local authorities, the drug has consumed the city."><![CDATA[Candidly legalized and sheltered by the local authorities, the drug has consumed the city.]]></Key8>
-            <Key9 value="This time I will be smarter. I will strike this evil into its heart. Let’s see who partakes in such obscenity. What happens next… the beast will decide."><![CDATA[This time I will be smarter. I will strike this evil into its heart. Let’s see who partakes in such obscenity. What happens next… the beast will decide.]]></Key9>
+            <Key3 value="The worst thing for a human being is a delusional mind. It has no shame or morale."><![CDATA[对人类来说，最糟糕的事情就是人会痴心妄想. 里面没有羞愧或道德.]]></Key3>
+            <Key4 value="You stop caring about other beings, and take over their space."><![CDATA[你不会再关心其他生物，还夺取了他们的生存空间.]]></Key4>
+            <Key5 value="How many times did I wander this path, and how many times did I try to avoid it."><![CDATA[我在这条路上徘徊了多少次我已经记不清了，也不记得我试图避免了多少次.]]></Key5>
+            <Key6 value="Should the beast show his claws, he instantly gets fed with lies and promises."><![CDATA[这头野兽一旦露出獠牙，就会立刻被谎言和承诺喂饱.]]></Key6>
+            <Key7 value="From the tales of this scum it’s clear that the city is terminally ill. It needs cleansing."><![CDATA[从这些人渣的故事中可以清楚的看出来，这座城已经病入膏肓了. 它需要一次清洗.]]></Key7>
+            <Key8 value="Candidly legalized and sheltered by the local authorities, the drug has consumed the city."><![CDATA[在当地政府的庇护下，这种毒品已经被完全合法化，并且已经吞噬了这座城市.]]></Key8>
+            <Key9 value="This time I will be smarter. I will strike this evil into its heart. Let’s see who partakes in such obscenity. What happens next… the beast will decide."><![CDATA[这一次我会吸取教训的. 我要把这头恶魔给击溃. 让我们看看是谁参与了这些腌臜之事. 之后发生的事情...就由这头野兽决定了]]></Key9>
         </Cutscene20>
 
         <!--InPoliceStation-->
         <Cutscene21>
-            <Key1 value="I wasn’t surprised that these scumbags have cops on payroll. Dirty pigs. A hydra usually has several heads spitting venom. It made itself a nest in the city."><![CDATA[I wasn’t surprised that these scumbags have cops on payroll. Dirty pigs. A hydra usually has several heads spitting venom. It made itself a nest in the city.]]></Key1>
-            <Key2 value="They think they can break me. My mind is fractured. They think I’ve given up. Nothing but a shell is left."><![CDATA[They think they can break me. My mind is fractured. They think I’ve given up. Nothing but a shell is left.]]></Key2>
-            <Key3 value="I could never call them model policemen. But now it’s beyond comprehension. Vultures, feasting in the corpse of what used to be a thriving city."><![CDATA[I could never call them model policemen. But now it’s beyond comprehension. Vultures, feasting in the corpse of what used to be a thriving city.]]></Key3>
-            <Key4 value="This city is lost. It’s spiraling into the abyss. Those who were supposed to protect it are responsible."><![CDATA[This city is lost. It’s spiraling into the abyss. Those who were supposed to protect it are responsible.]]></Key4>
-            <Key5 value="They think they broke me. No. Now I know what to do. I’m on the righteous path, and they helped me see it. The city will be cleansed when the police chief’s blood is dripping from the blade of my knife."><![CDATA[They think they broke me. No. Now I know what to do. I’m on the righteous path, and they helped me see it. The city will be cleansed when the police chief’s blood is dripping from the blade of my knife.]]></Key5>
-            <Key6 value="The human in me is broken, there’s no doubting that. This world has been sucking humanity out of me for a while now. But the beast is only getting stronger…"><![CDATA[The human in me is broken, there’s no doubting that. This world has been sucking humanity out of me for a while now. But the beast is only getting stronger…]]></Key6>
+            <Key1 value="I wasn’t surprised that these scumbags have cops on payroll. Dirty pigs. A hydra usually has several heads spitting venom. It made itself a nest in the city."><![CDATA[对于这些渣滓会收买警察的事我并不感到惊讶. 狗日的东西. 九头蛇通常都会长几个能喷毒液的头. 现在他们在这座城市里筑好巢了]]></Key1>
+            <Key2 value="They think they can break me. My mind is fractured. They think I’ve given up. Nothing but a shell is left."><![CDATA[他们以为可以打垮我。我的精神已经破碎。他们以为我已经放弃了。只剩下一个空壳。]]></Key2>
+            <Key3 value="I could never call them model policemen. But now it’s beyond comprehension. Vultures, feasting in the corpse of what used to be a thriving city."><![CDATA[我从来没法把他们叫作模范警察。但现在的情况已经难以理解。秃鹫，正在一座曾经繁荣的城市的尸体上啃食。]]></Key3>
+            <Key4 value="This city is lost. It’s spiraling into the abyss. Those who were supposed to protect it are responsible."><![CDATA[这座城市已经迷失。它正螺旋式地陷入深渊。那些原本应该保护它的人却负有责任。]]></Key4>
+            <Key5 value="They think they broke me. No. Now I know what to do. I’m on the righteous path, and they helped me see it. The city will be cleansed when the police chief’s blood is dripping from the blade of my knife."><![CDATA[他们以为打垮了我。但没有。现在我知道该怎么做了。我走在正义的道路上，而他们帮我看清了这一点。当警察局长的血从我的刀刃上滴落时，这座城市就会被清洗。]]></Key5>
+            <Key6 value="The human in me is broken, there’s no doubting that. This world has been sucking humanity out of me for a while now. But the beast is only getting stronger…"><![CDATA[我内心的人性已经破碎，这点毫无疑问。这个世界已经抽取了我不少的人性。而兽性却在不断增强……]]></Key6>
         </Cutscene21>
 
         <!--WithCop-->
         <Cutscene22>
-            <Key1 value="A fine example of greed and betrayal. The police chief, selling his loyalty to the highest bidder."><![CDATA[A fine example of greed and betrayal. The police chief, selling his loyalty to the highest bidder.]]></Key1>
-            <Key2 value="He’s taking me into the belly of the beast. To the center of evil that consumed this city. People become very submissive once there’s a blade scraping against their neck."><![CDATA[He’s taking me into the belly of the beast. To the center of evil that consumed this city. People become very submissive once there’s a blade scraping against their neck.]]></Key2>
-            <Key3 value="I’ll keep him by my side. He’ll take me to his lackey. He should witness the fall of his rotten empire. I want to see the pain and despair in his eyes as everything crumbles down."><![CDATA[I’ll keep him by my side. He’ll take me to his lackey. He should witness the fall of his rotten empire. I want to see the pain and despair in his eyes as everything crumbles down.]]></Key3>
+            <Key1 value="A fine example of greed and betrayal. The police chief, selling his loyalty to the highest bidder."><![CDATA[这是贪婪和背叛的典型例子。警察局长把他的忠诚卖给了出价最高的人。]]></Key1>
+            <Key2 value="He’s taking me into the belly of the beast. To the center of evil that consumed this city. People become very submissive once there’s a blade scraping against their neck."><![CDATA[他正把我带进野兽的腹中，进入吞噬了这座城市的邪恶中心。一旦刀刃在他们的脖子上划过，人们就会变得非常顺从。]]></Key2>
+            <Key3 value="I’ll keep him by my side. He’ll take me to his lackey. He should witness the fall of his rotten empire. I want to see the pain and despair in his eyes as everything crumbles down."><![CDATA[我会把他留在我身边。他会带我去找他的爪牙。他应该亲眼见证他那腐败帝国的崩溃。我想看到当一切崩塌时，他眼中的痛苦和绝望。]]></Key3>
         </Cutscene22>
 
         <!--SelfAnalysis-->
         <Cutscene23>
-            <Key1 value="I made a misstep. The rage blinded my judgement, and I couldn’t see the lies in the cop’s voice. My rage has failed me. This is my fault."><![CDATA[I made a misstep. The rage blinded my judgement, and I couldn’t see the lies in the cop’s voice. My rage has failed me. This is my fault.]]></Key1>
-            <Key2 value="Is this where it ends? A new order that favors demons and escalates them to power. Built on broken lives."><![CDATA[Is this where it ends? A new order that favors demons and escalates them to power. Built on broken lives.]]></Key2>
-            <Key3 value="I can’t leave this world just yet. There are things to do. Justice requires sacrifice. The hearts of my kidnappers can’t beat longer than my own."><![CDATA[I can’t leave this world just yet. There are things to do. Justice requires sacrifice. The hearts of my kidnappers can’t beat longer than my own.]]></Key3>
+            <Key1 value="I made a misstep. The rage blinded my judgement, and I couldn’t see the lies in the cop’s voice. My rage has failed me. This is my fault."><![CDATA[我失算了。愤怒蒙蔽了我的判断力，让我无法看透警察话语中的谎言。我的愤怒让我失败了。这是我的错。]]></Key1>
+            <Key2 value="Is this where it ends? A new order that favors demons and escalates them to power. Built on broken lives."><![CDATA[这就是结局吗？一种偏袒恶魔的新秩序，把他们推向权力巅峰，建立在破碎的生命之上。]]></Key2>
+            <Key3 value="I can’t leave this world just yet. There are things to do. Justice requires sacrifice. The hearts of my kidnappers can’t beat longer than my own."><![CDATA[我不能就这样离开这个世界。还有事情要做。正义需要牺牲。那些绑架我的人的心不能比我的跳得更久。]]></Key3>
         </Cutscene23>
 
         <!--DumpTheMask-->
         <Cutscene24>
-            <Key1 value="This doesn’t feel right. I don’t feel satisfied. One of the corrupted heads of this city is dead. But who’s to say the poison didn’t get deeper?"><![CDATA[This doesn’t feel right. I don’t feel satisfied. One of the corrupted heads of this city is dead. But who’s to say the poison didn’t get deeper?]]></Key1>
-            <Key2 value="There will always be someone who think they own you. Their followers will corrupt and poison everything that lives. Poison their humanity."><![CDATA[There will always be someone who think they own you. Their followers will corrupt and poison everything that lives. Poison their humanity.]]></Key2>
-            <Key3 value="I can’t do this any longer. It’s time to break the cycle."><![CDATA[I can’t do this any longer. It’s time to break the cycle.]]></Key3>
+            <Key1 value="This doesn’t feel right. I don’t feel satisfied. One of the corrupted heads of this city is dead. But who’s to say the poison didn’t get deeper?"><![CDATA[这感觉不对。我并不感到满足。这座城市的一个腐败头目死了。但谁能保证毒素没有渗得更深？]]></Key1>
+            <Key2 value="There will always be someone who think they own you. Their followers will corrupt and poison everything that lives. Poison their humanity."><![CDATA[总有人会觉得他们吃定你了。他们的追随者会腐化并毒害一切活着的东西，毒害他们的人性。]]></Key2>
+            <Key3 value="I can’t do this any longer. It’s time to break the cycle."><![CDATA[我再也无法继续下去了。是时候打破这个循环了。]]></Key3>
         </Cutscene24>
     </Cutscenes>
 
